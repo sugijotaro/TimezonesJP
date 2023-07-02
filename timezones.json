@@ -1,6 +1,7 @@
 [
     {
-        "english": "Africa",
+        "region": "Africa",
+        "region_ja": "アフリカ",
         "cities": [
             {
                 "timezone": "Africa/Abidjan",
@@ -369,7 +370,8 @@
         ]
     },
     {
-        "english": "America",
+        "region": "America",
+        "region_ja": "アメリカ",
         "cities": [
             {
                 "timezone": "America/Adak",
@@ -405,6 +407,90 @@
                 "country": "Brazil",
                 "city_ja": "アラグァイナ",
                 "country_ja": "ブラジル"
+            },
+            {
+                "timezone": "America/Argentina/Buenos_Aires",
+                "city": "Buenos Aires",
+                "country": "Argentina",
+                "city_ja": "ブエノスアイレス",
+                "country_ja": "アルゼンチン"
+            },
+            {
+                "timezone": "America/Argentina/Catamarca",
+                "city": "Catamarca",
+                "country": "Argentina",
+                "city_ja": "カタマルカ",
+                "country_ja": "アルゼンチン"
+            },
+            {
+                "timezone": "America/Argentina/Cordoba",
+                "city": "Cordoba",
+                "country": "Argentina",
+                "city_ja": "コルドバ",
+                "country_ja": "アルゼンチン"
+            },
+            {
+                "timezone": "America/Argentina/Jujuy",
+                "city": "San Salvador de Jujuy",
+                "country": "Argentina",
+                "city_ja": "サン・サルバドール・デ・フフイ",
+                "country_ja": "アルゼンチン"
+            },
+            {
+                "timezone": "America/Argentina/La_Rioja",
+                "city": "La Rioja",
+                "country": "Argentina",
+                "city_ja": "ラ・リオハ",
+                "country_ja": "アルゼンチン"
+            },
+            {
+                "timezone": "America/Argentina/Mendoza",
+                "city": "Mendoza",
+                "country": "Argentina",
+                "city_ja": "メンドーサ",
+                "country_ja": "アルゼンチン"
+            },
+            {
+                "timezone": "America/Argentina/Rio_Gallegos",
+                "city": "Rio Gallegos",
+                "country": "Argentina",
+                "city_ja": "リオガイェゴス",
+                "country_ja": "アルゼンチン"
+            },
+            {
+                "timezone": "America/Argentina/Salta",
+                "city": "Salta",
+                "country": "Argentina",
+                "city_ja": "サルタ",
+                "country_ja": "アルゼンチン"
+            },
+            {
+                "timezone": "America/Argentina/San_Juan",
+                "city": "San Juan",
+                "country": "Argentina",
+                "city_ja": "サンフアン",
+                "country_ja": "アルゼンチン"
+            },
+            {
+                "timezone": "America/Argentina/San_Luis",
+                "city": "San Luis",
+                "country": "Argentina",
+                "city_ja": "サンルイス",
+                "country_ja": "アルゼンチン"
+            },
+            {
+                "timezone": "America/Argentina/Tucuman",
+                "city": "San Miguel de Tucumán",
+                "country": "Argentina",
+                "city_ja": "サン・ミゲル・デ・トゥクマン",
+                "country_ja": "アルゼンチン"
+            },
+            {
+                "timezone": "America/Argentina/Ushuaia",
+                "city": "Ushuaia",
+                "country": "Argentina",
+                "city_ja": "ウシュアイア",
+                "country_ja": "アルゼンチン"
             },
             {
                 "timezone": "America/Aruba",
@@ -736,6 +822,62 @@
                 "country_ja": "メキシコ"
             },
             {
+                "timezone": "America/Indiana/Indianapolis",
+                "city": "Indianapolis",
+                "country": "U.S.A.",
+                "city_ja": "インディアナポリス",
+                "country_ja": "米国"
+            },
+            {
+                "timezone": "America/Indiana/Knox",
+                "city": "Knox",
+                "country": "U.S.A.",
+                "city_ja": "ノックス",
+                "country_ja": "米国"
+            },
+            {
+                "timezone": "America/Indiana/Marengo",
+                "city": "Marengo",
+                "country": "U.S.A.",
+                "city_ja": "マレンゴ",
+                "country_ja": "米国"
+            },
+            {
+                "timezone": "America/Indiana/Petersburg",
+                "city": "Petersburg",
+                "country": "U.S.A.",
+                "city_ja": "ピータースバーグ",
+                "country_ja": "米国"
+            },
+            {
+                "timezone": "America/Indiana/Tell_City",
+                "city": "Tell City",
+                "country": "U.S.A.",
+                "city_ja": "テルシティ",
+                "country_ja": "米国"
+            },
+            {
+                "timezone": "America/Indiana/Vevay",
+                "city": "Vevay",
+                "country": "U.S.A.",
+                "city_ja": "ビベイ",
+                "country_ja": "米国"
+            },
+            {
+                "timezone": "America/Indiana/Vincennes",
+                "city": "Vincennes",
+                "country": "U.S.A.",
+                "city_ja": "ビンセンス",
+                "country_ja": "米国"
+            },
+            {
+                "timezone": "America/Indiana/Winamac",
+                "city": "Winamac",
+                "country": "U.S.A.",
+                "city_ja": "ウィナマク",
+                "country_ja": "米国"
+            },
+            {
                 "timezone": "America/Inuvik",
                 "city": "Inuvik",
                 "country": "Canada",
@@ -761,6 +903,20 @@
                 "city": "Juneau",
                 "country": "U.S.A.",
                 "city_ja": "ジュノー",
+                "country_ja": "米国"
+            },
+            {
+                "timezone": "America/Kentucky/Louisville",
+                "city": "Louisville",
+                "country": "U.S.A.",
+                "city_ja": "ルイビル",
+                "country_ja": "米国"
+            },
+            {
+                "timezone": "America/Kentucky/Monticello",
+                "city": "Monticello",
+                "country": "U.S.A.",
+                "city_ja": "モンティチェロ",
                 "country_ja": "米国"
             },
             {
@@ -951,6 +1107,27 @@
                 "country": "Brazil",
                 "city_ja": "フェルナンド・デ・ノローニャ",
                 "country_ja": "ブラジル"
+            },
+            {
+                "timezone": "America/North_Dakota/Beulah",
+                "city": "Beulah",
+                "country": "U.S.A.",
+                "city_ja": "ベウラ",
+                "country_ja": "米国"
+            },
+            {
+                "timezone": "America/North_Dakota/Center",
+                "city": "Center",
+                "country": "U.S.A.",
+                "city_ja": "センター",
+                "country_ja": "米国"
+            },
+            {
+                "timezone": "America/North_Dakota/New_Salem",
+                "city": "New Salem",
+                "country": "U.S.A.",
+                "city_ja": "ニューサレム",
+                "country_ja": "米国"
             },
             {
                 "timezone": "America/Ojinaga",
@@ -1249,202 +1426,8 @@
         ]
     },
     {
-        "english": "America/Argentina",
-        "cities": [
-            {
-                "timezone": "America/Argentina/Buenos_Aires",
-                "city": "Buenos Aires",
-                "country": "Argentina",
-                "city_ja": "ブエノスアイレス",
-                "country_ja": "アルゼンチン"
-            },
-            {
-                "timezone": "America/Argentina/Catamarca",
-                "city": "Catamarca",
-                "country": "Argentina",
-                "city_ja": "カタマルカ",
-                "country_ja": "アルゼンチン"
-            },
-            {
-                "timezone": "America/Argentina/Cordoba",
-                "city": "Cordoba",
-                "country": "Argentina",
-                "city_ja": "コルドバ",
-                "country_ja": "アルゼンチン"
-            },
-            {
-                "timezone": "America/Argentina/Jujuy",
-                "city": "San Salvador de Jujuy",
-                "country": "Argentina",
-                "city_ja": "サン・サルバドール・デ・フフイ",
-                "country_ja": "アルゼンチン"
-            },
-            {
-                "timezone": "America/Argentina/La_Rioja",
-                "city": "La Rioja",
-                "country": "Argentina",
-                "city_ja": "ラ・リオハ",
-                "country_ja": "アルゼンチン"
-            },
-            {
-                "timezone": "America/Argentina/Mendoza",
-                "city": "Mendoza",
-                "country": "Argentina",
-                "city_ja": "メンドーサ",
-                "country_ja": "アルゼンチン"
-            },
-            {
-                "timezone": "America/Argentina/Rio_Gallegos",
-                "city": "Rio Gallegos",
-                "country": "Argentina",
-                "city_ja": "リオガイェゴス",
-                "country_ja": "アルゼンチン"
-            },
-            {
-                "timezone": "America/Argentina/Salta",
-                "city": "Salta",
-                "country": "Argentina",
-                "city_ja": "サルタ",
-                "country_ja": "アルゼンチン"
-            },
-            {
-                "timezone": "America/Argentina/San_Juan",
-                "city": "San Juan",
-                "country": "Argentina",
-                "city_ja": "サンフアン",
-                "country_ja": "アルゼンチン"
-            },
-            {
-                "timezone": "America/Argentina/San_Luis",
-                "city": "San Luis",
-                "country": "Argentina",
-                "city_ja": "サンルイス",
-                "country_ja": "アルゼンチン"
-            },
-            {
-                "timezone": "America/Argentina/Tucuman",
-                "city": "San Miguel de Tucumán",
-                "country": "Argentina",
-                "city_ja": "サン・ミゲル・デ・トゥクマン",
-                "country_ja": "アルゼンチン"
-            },
-            {
-                "timezone": "America/Argentina/Ushuaia",
-                "city": "Ushuaia",
-                "country": "Argentina",
-                "city_ja": "ウシュアイア",
-                "country_ja": "アルゼンチン"
-            }
-        ]
-    },
-    {
-        "english": "America/Indiana",
-        "cities": [
-            {
-                "timezone": "America/Indiana/Indianapolis",
-                "city": "Indianapolis",
-                "country": "U.S.A.",
-                "city_ja": "インディアナポリス",
-                "country_ja": "米国"
-            },
-            {
-                "timezone": "America/Indiana/Knox",
-                "city": "Knox",
-                "country": "U.S.A.",
-                "city_ja": "ノックス",
-                "country_ja": "米国"
-            },
-            {
-                "timezone": "America/Indiana/Marengo",
-                "city": "Marengo",
-                "country": "U.S.A.",
-                "city_ja": "マレンゴ",
-                "country_ja": "米国"
-            },
-            {
-                "timezone": "America/Indiana/Petersburg",
-                "city": "Petersburg",
-                "country": "U.S.A.",
-                "city_ja": "ピータースバーグ",
-                "country_ja": "米国"
-            },
-            {
-                "timezone": "America/Indiana/Tell_City",
-                "city": "Tell City",
-                "country": "U.S.A.",
-                "city_ja": "テルシティ",
-                "country_ja": "米国"
-            },
-            {
-                "timezone": "America/Indiana/Vevay",
-                "city": "Vevay",
-                "country": "U.S.A.",
-                "city_ja": "ビベイ",
-                "country_ja": "米国"
-            },
-            {
-                "timezone": "America/Indiana/Vincennes",
-                "city": "Vincennes",
-                "country": "U.S.A.",
-                "city_ja": "ビンセンス",
-                "country_ja": "米国"
-            },
-            {
-                "timezone": "America/Indiana/Winamac",
-                "city": "Winamac",
-                "country": "U.S.A.",
-                "city_ja": "ウィナマク",
-                "country_ja": "米国"
-            }
-        ]
-    },
-    {
-        "english": "America/Kentucky",
-        "cities": [
-            {
-                "timezone": "America/Kentucky/Louisville",
-                "city": "Louisville",
-                "country": "U.S.A.",
-                "city_ja": "ルイビル",
-                "country_ja": "米国"
-            },
-            {
-                "timezone": "America/Kentucky/Monticello",
-                "city": "Monticello",
-                "country": "U.S.A.",
-                "city_ja": "モンティチェロ",
-                "country_ja": "米国"
-            }
-        ]
-    },
-    {
-        "english": "America/North_Dakota",
-        "cities": [
-            {
-                "timezone": "America/North_Dakota/Beulah",
-                "city": "Beulah",
-                "country": "U.S.A.",
-                "city_ja": "ベウラ",
-                "country_ja": "米国"
-            },
-            {
-                "timezone": "America/North_Dakota/Center",
-                "city": "Center",
-                "country": "U.S.A.",
-                "city_ja": "センター",
-                "country_ja": "米国"
-            },
-            {
-                "timezone": "America/North_Dakota/New_Salem",
-                "city": "New Salem",
-                "country": "U.S.A.",
-                "city_ja": "ニューサレム",
-                "country_ja": "米国"
-            }
-        ]
-    },
-    {
-        "english": "Antarctica",
+        "region": "Antarctica",
+        "region_ja": "南極",
         "cities": [
             {
                 "timezone": "Antarctica/Casey",
@@ -1533,7 +1516,8 @@
         ]
     },
     {
-        "english": "Arctic",
+        "region": "Arctic",
+        "region_ja": "北極",
         "cities": [
             {
                 "timezone": "Arctic/Longyearbyen",
@@ -1545,7 +1529,8 @@
         ]
     },
     {
-        "english": "Asia",
+        "region": "Asia",
+        "region_ja": "アジア",
         "cities": [
             {
                 "timezone": "Asia/Aden",
@@ -2173,7 +2158,8 @@
         ]
     },
     {
-        "english": "Atlantic",
+        "region": "Atlantic",
+        "region_ja": "大西洋",
         "cities": [
             {
                 "timezone": "Atlantic/Azores",
@@ -2248,7 +2234,8 @@
         ]
     },
     {
-        "english": "Australia",
+        "region": "Australia",
+        "region_ja": "オーストラリア",
         "cities": [
             {
                 "timezone": "Australia/Adelaide",
@@ -2337,7 +2324,8 @@
         ]
     },
     {
-        "english": "Europe",
+        "region": "Europe",
+        "region_ja": "ヨーロッパ",
         "cities": [
             {
                 "timezone": "Europe/Amsterdam",
@@ -2762,7 +2750,8 @@
         ]
     },
     {
-        "english": "Indian",
+        "region": "Indian",
+        "region_ja": "インド洋",
         "cities": [
             {
                 "timezone": "Indian/Antananarivo",
@@ -2844,7 +2833,8 @@
         ]
     },
     {
-        "english": "Pacific",
+        "region": "Pacific",
+        "region_ja": "太平洋",
         "cities": [
             {
                 "timezone": "Pacific/Apia",
