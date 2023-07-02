@@ -1,0 +1,3138 @@
+[
+    {
+        "english": "Africa",
+        "cities": [
+            {
+                "timezone": "Africa/Abidjan",
+                "city": "Abidjan",
+                "country": "Ivory Coast",
+                "city_ja": "アビジャン",
+                "country_ja": "コートジボワール"
+            },
+            {
+                "timezone": "Africa/Accra",
+                "city": "Accra",
+                "country": "Ghana",
+                "city_ja": "アクラ",
+                "country_ja": "ガーナ"
+            },
+            {
+                "timezone": "Africa/Addis_Ababa",
+                "city": "Addis Ababa",
+                "country": "Ethiopia",
+                "city_ja": "アジスアベバ",
+                "country_ja": "エチオピア"
+            },
+            {
+                "timezone": "Africa/Algiers",
+                "city": "Algiers",
+                "country": "Algeria",
+                "city_ja": "アルジェ",
+                "country_ja": "アルジェリア"
+            },
+            {
+                "timezone": "Africa/Asmara",
+                "city": "Asmara",
+                "country": "Eritrea",
+                "city_ja": "アスマラ",
+                "country_ja": "エリトリア"
+            },
+            {
+                "timezone": "Africa/Bamako",
+                "city": "Bamako",
+                "country": "Mali",
+                "city_ja": "バマコ",
+                "country_ja": "マリ"
+            },
+            {
+                "timezone": "Africa/Bangui",
+                "city": "Bangui",
+                "country": "Central African Republic",
+                "city_ja": "バンギ",
+                "country_ja": "中央アフリカ共和国"
+            },
+            {
+                "timezone": "Africa/Banjul",
+                "city": "Banjul",
+                "country": "Gambia",
+                "city_ja": "バンジュール",
+                "country_ja": "ガンビア"
+            },
+            {
+                "timezone": "Africa/Bissau",
+                "city": "Bissau",
+                "country": "Guinea-Bissau",
+                "city_ja": "ビサウ",
+                "country_ja": "ギニアビサウ"
+            },
+            {
+                "timezone": "Africa/Blantyre",
+                "city": "Blantyre",
+                "country": "Malawi",
+                "city_ja": "ブランタイア",
+                "country_ja": "マラウィ"
+            },
+            {
+                "timezone": "Africa/Brazzaville",
+                "city": "Brazzaville",
+                "country": "Congo",
+                "city_ja": "ブラザビル",
+                "country_ja": "コンゴ"
+            },
+            {
+                "timezone": "Africa/Bujumbura",
+                "city": "Bujumbura",
+                "country": "Burundi",
+                "city_ja": "ブジュンブラ",
+                "country_ja": "ブルンジ"
+            },
+            {
+                "timezone": "Africa/Cairo",
+                "city": "Cairo",
+                "country": "Egypt",
+                "city_ja": "カイロ",
+                "country_ja": "エジプト"
+            },
+            {
+                "timezone": "Africa/Casablanca",
+                "city": "Casablanca",
+                "country": "Morocco",
+                "city_ja": "カサブランカ",
+                "country_ja": "モロッコ"
+            },
+            {
+                "timezone": "Africa/Ceuta",
+                "city": "Ceuta",
+                "country": "Spain",
+                "city_ja": "セウタ",
+                "country_ja": "スペイン"
+            },
+            {
+                "timezone": "Africa/Conakry",
+                "city": "Conakry",
+                "country": "Guinea",
+                "city_ja": "コナクリ",
+                "country_ja": "ギニア"
+            },
+            {
+                "timezone": "Africa/Dakar",
+                "city": "Dakar",
+                "country": "Senegal",
+                "city_ja": "ダカール",
+                "country_ja": "セネガル"
+            },
+            {
+                "timezone": "Africa/Dar_es_Salaam",
+                "city": "Dar es Salaam",
+                "country": "Tanzania",
+                "city_ja": "ダルエスサラーム",
+                "country_ja": "タンザニア"
+            },
+            {
+                "timezone": "Africa/Djibouti",
+                "city": "Djibouti",
+                "country": "Djibouti",
+                "city_ja": "ジブチ",
+                "country_ja": "ジブチ"
+            },
+            {
+                "timezone": "Africa/Douala",
+                "city": "Douala",
+                "country": "Cameroon",
+                "city_ja": "ドゥアラ",
+                "country_ja": "カメルーン"
+            },
+            {
+                "timezone": "Africa/El_Aaiun",
+                "city": "Laayoune",
+                "country": "Western Sahara",
+                "city_ja": "アイウン",
+                "country_ja": "西サハラ"
+            },
+            {
+                "timezone": "Africa/Freetown",
+                "city": "Freetown",
+                "country": "Sierra Leone",
+                "city_ja": "フリータウン",
+                "country_ja": "シエラレオネ"
+            },
+            {
+                "timezone": "Africa/Gaborone",
+                "city": "Gaborone",
+                "country": "Botswana",
+                "city_ja": "ハボローネ",
+                "country_ja": "ボツワナ"
+            },
+            {
+                "timezone": "Africa/Harare",
+                "city": "Harare",
+                "country": "Zimbabwe",
+                "city_ja": "ハラレ",
+                "country_ja": "ジンバブエ"
+            },
+            {
+                "timezone": "Africa/Johannesburg",
+                "city": "Johannesburg",
+                "country": "South Africa",
+                "city_ja": "ヨハネスブルグ",
+                "country_ja": "南アフリカ"
+            },
+            {
+                "timezone": "Africa/Juba",
+                "city": "Juba",
+                "country": "South Sudan",
+                "city_ja": "ジュバ",
+                "country_ja": "南スーダン"
+            },
+            {
+                "timezone": "Africa/Kampala",
+                "city": "Kampala",
+                "country": "Uganda",
+                "city_ja": "カンパラ",
+                "country_ja": "ウガンダ"
+            },
+            {
+                "timezone": "Africa/Khartoum",
+                "city": "Khartoum",
+                "country": "Sudan",
+                "city_ja": "ハルツーム",
+                "country_ja": "スーダン"
+            },
+            {
+                "timezone": "Africa/Kigali",
+                "city": "Kigali",
+                "country": "Rwanda",
+                "city_ja": "キガリ",
+                "country_ja": "ルワンダ"
+            },
+            {
+                "timezone": "Africa/Kinshasa",
+                "city": "Kinshasa",
+                "country": "Democratic Republic of the Congo",
+                "city_ja": "キンシャサ",
+                "country_ja": "コンゴ民主共和国"
+            },
+            {
+                "timezone": "Africa/Lagos",
+                "city": "Lagos",
+                "country": "Nigeria",
+                "city_ja": "ラゴス",
+                "country_ja": "ナイジェリア"
+            },
+            {
+                "timezone": "Africa/Libreville",
+                "city": "Libreville",
+                "country": "Gabon",
+                "city_ja": "リーブルビル",
+                "country_ja": "ガボン"
+            },
+            {
+                "timezone": "Africa/Lome",
+                "city": "Lomé",
+                "country": "Togo",
+                "city_ja": "ロメ",
+                "country_ja": "トーゴ"
+            },
+            {
+                "timezone": "Africa/Luanda",
+                "city": "Luanda",
+                "country": "Angola",
+                "city_ja": "ルアンダ",
+                "country_ja": "アンゴラ"
+            },
+            {
+                "timezone": "Africa/Lubumbashi",
+                "city": "Lubumbashi",
+                "country": "Democratic Republic of the Congo",
+                "city_ja": "ルブンバシ",
+                "country_ja": "コンゴ民主共和国"
+            },
+            {
+                "timezone": "Africa/Lusaka",
+                "city": "Lusaka",
+                "country": "Zambia",
+                "city_ja": "ルサカ",
+                "country_ja": "ザンビア"
+            },
+            {
+                "timezone": "Africa/Malabo",
+                "city": "Malabo",
+                "country": "Equatorial Guinea",
+                "city_ja": "マラボ",
+                "country_ja": "赤道ギニア"
+            },
+            {
+                "timezone": "Africa/Maputo",
+                "city": "Maputo",
+                "country": "Mozambique",
+                "city_ja": "マプト",
+                "country_ja": "モザンビーク"
+            },
+            {
+                "timezone": "Africa/Maseru",
+                "city": "Maseru",
+                "country": "Lesotho",
+                "city_ja": "マセル",
+                "country_ja": "レソト"
+            },
+            {
+                "timezone": "Africa/Mbabane",
+                "city": "Mbabane",
+                "country": "Swaziland",
+                "city_ja": "ムババネ",
+                "country_ja": "スワジランド"
+            },
+            {
+                "timezone": "Africa/Mogadishu",
+                "city": "Mogadishu",
+                "country": "Somalia",
+                "city_ja": "モガディシュ",
+                "country_ja": "ソマリア"
+            },
+            {
+                "timezone": "Africa/Monrovia",
+                "city": "Monrovia",
+                "country": "Liberia",
+                "city_ja": "モンロビア",
+                "country_ja": "リベリア"
+            },
+            {
+                "timezone": "Africa/Nairobi",
+                "city": "Nairobi",
+                "country": "Kenya",
+                "city_ja": "ナイロビ",
+                "country_ja": "ケニア"
+            },
+            {
+                "timezone": "Africa/Ndjamena",
+                "city": "Ndjamena",
+                "country": "Chad",
+                "city_ja": "ヌジャメナ",
+                "country_ja": "チャド"
+            },
+            {
+                "timezone": "Africa/Niamey",
+                "city": "Niamey",
+                "country": "Niger",
+                "city_ja": "ニアメ",
+                "country_ja": "ニジェール"
+            },
+            {
+                "timezone": "Africa/Nouakchott",
+                "city": "Nouakchott",
+                "country": "Mauritania",
+                "city_ja": "ヌアクショット",
+                "country_ja": "モーリタニア"
+            },
+            {
+                "timezone": "Africa/Ouagadougou",
+                "city": "Ouagadougou",
+                "country": "Burkina Faso",
+                "city_ja": "ワガドゥグー",
+                "country_ja": "ブルキナファソ"
+            },
+            {
+                "timezone": "Africa/Porto-Novo",
+                "city": "Porto-Novo",
+                "country": "Benin",
+                "city_ja": "ポルトノボ",
+                "country_ja": "ベナン"
+            },
+            {
+                "timezone": "Africa/Sao_Tome",
+                "city": "São Tomé",
+                "country": "São Tomé and Príncipe",
+                "city_ja": "サントメ",
+                "country_ja": "サントメプリンシペ"
+            },
+            {
+                "timezone": "Africa/Tripoli",
+                "city": "Tripoli",
+                "country": "Libya",
+                "city_ja": "トリポリ",
+                "country_ja": "リビア"
+            },
+            {
+                "timezone": "Africa/Tunis",
+                "city": "Tunis",
+                "country": "Tunisia",
+                "city_ja": "チュニス",
+                "country_ja": "チュニジア"
+            },
+            {
+                "timezone": "Africa/Windhoek",
+                "city": "Windhoek",
+                "country": "Namibia",
+                "city_ja": "ウィントフック",
+                "country_ja": "ナミビア"
+            }
+        ]
+    },
+    {
+        "english": "America",
+        "cities": [
+            {
+                "timezone": "America/Adak",
+                "city": "Adak",
+                "country": "U.S.A.",
+                "city_ja": "エイダク",
+                "country_ja": "米国"
+            },
+            {
+                "timezone": "America/Anchorage",
+                "city": "Anchorage",
+                "country": "U.S.A.",
+                "city_ja": "アンカレッジ",
+                "country_ja": "米国"
+            },
+            {
+                "timezone": "America/Anguilla",
+                "city": "The Valley",
+                "country": "Anguilla",
+                "city_ja": "バレー",
+                "country_ja": "アンギラ"
+            },
+            {
+                "timezone": "America/Antigua",
+                "city": "St. John's",
+                "country": "Antigua and Barbuda",
+                "city_ja": "セントジョンズ",
+                "country_ja": "アンティグア・バーブーダ"
+            },
+            {
+                "timezone": "America/Araguaina",
+                "city": "Araguaina",
+                "country": "Brazil",
+                "city_ja": "アラグァイナ",
+                "country_ja": "ブラジル"
+            },
+            {
+                "timezone": "America/Aruba",
+                "city": "Oranjestad",
+                "country": "Aruba",
+                "city_ja": "オラニエスタッド",
+                "country_ja": "アルバ"
+            },
+            {
+                "timezone": "America/Asuncion",
+                "city": "Asunción",
+                "country": "Paraguay",
+                "city_ja": "アスンシオン",
+                "country_ja": "パラグアイ"
+            },
+            {
+                "timezone": "America/Atikokan",
+                "city": "Atikokan",
+                "country": "Canada",
+                "city_ja": "アティコカン",
+                "country_ja": "カナダ"
+            },
+            {
+                "timezone": "America/Bahia",
+                "city": "Salvador",
+                "country": "Brazil",
+                "city_ja": "サルバドル",
+                "country_ja": "ブラジル"
+            },
+            {
+                "timezone": "America/Bahia_Banderas",
+                "city": "Bahía de Banderas",
+                "country": "Mexico",
+                "city_ja": "バンデラス湾",
+                "country_ja": "メキシコ"
+            },
+            {
+                "timezone": "America/Barbados",
+                "city": "Bridgetown",
+                "country": "Barbados",
+                "city_ja": "ブリッジタウン",
+                "country_ja": "バルバドス"
+            },
+            {
+                "timezone": "America/Belem",
+                "city": "Belem",
+                "country": "Brazil",
+                "city_ja": "ベレム",
+                "country_ja": "ブラジル"
+            },
+            {
+                "timezone": "America/Belize",
+                "city": "Belize City",
+                "country": "Belize",
+                "city_ja": "ベリーズシティ",
+                "country_ja": "ベリーズ"
+            },
+            {
+                "timezone": "America/Blanc-Sablon",
+                "city": "Blanc-Sablon",
+                "country": "Canada",
+                "city_ja": "ブランサブロン",
+                "country_ja": "カナダ"
+            },
+            {
+                "timezone": "America/Boa_Vista",
+                "city": "Boa Vista",
+                "country": "Brazil",
+                "city_ja": "ボアビスタ",
+                "country_ja": "ブラジル"
+            },
+            {
+                "timezone": "America/Bogota",
+                "city": "Bogotá",
+                "country": "Colombia",
+                "city_ja": "ボゴタ",
+                "country_ja": "コロンビア"
+            },
+            {
+                "timezone": "America/Boise",
+                "city": "Boise",
+                "country": "U.S.A.",
+                "city_ja": "ボイシ",
+                "country_ja": "米国"
+            },
+            {
+                "timezone": "America/Cambridge_Bay",
+                "city": "Cambridge Bay",
+                "country": "Canada",
+                "city_ja": "ケンブリッジベイ",
+                "country_ja": "カナダ"
+            },
+            {
+                "timezone": "America/Campo_Grande",
+                "city": "Campo Grande",
+                "country": "Brazil",
+                "city_ja": "カンポグランデ",
+                "country_ja": "ブラジル"
+            },
+            {
+                "timezone": "America/Cancun",
+                "city": "Cancun",
+                "country": "Mexico",
+                "city_ja": "カンクン",
+                "country_ja": "メキシコ"
+            },
+            {
+                "timezone": "America/Caracas",
+                "city": "Caracas",
+                "country": "Venezuela",
+                "city_ja": "カラカス",
+                "country_ja": "ベネズエラ"
+            },
+            {
+                "timezone": "America/Cayenne",
+                "city": "Cayenne",
+                "country": "French Guiana",
+                "city_ja": "カイエンヌ",
+                "country_ja": "仏領ギアナ"
+            },
+            {
+                "timezone": "America/Cayman",
+                "city": "George Town",
+                "country": "Cayman Islands",
+                "city_ja": "ジョージタウン",
+                "country_ja": "ケイマン諸島"
+            },
+            {
+                "timezone": "America/Chicago",
+                "city": "Chicago",
+                "country": "U.S.A.",
+                "city_ja": "シカゴ",
+                "country_ja": "米国"
+            },
+            {
+                "timezone": "America/Chihuahua",
+                "city": "Chihuahua",
+                "country": "Mexico",
+                "city_ja": "チワワ",
+                "country_ja": "メキシコ"
+            },
+            {
+                "timezone": "America/Costa_Rica",
+                "city": "San José",
+                "country": "Costa Rica",
+                "city_ja": "サンホセ",
+                "country_ja": "コスタリカ"
+            },
+            {
+                "timezone": "America/Creston",
+                "city": "Creston",
+                "country": "Canada",
+                "city_ja": "クレストン",
+                "country_ja": "カナダ"
+            },
+            {
+                "timezone": "America/Cuiaba",
+                "city": "Cuiaba",
+                "country": "Brazil",
+                "city_ja": "クイアバ",
+                "country_ja": "ブラジル"
+            },
+            {
+                "timezone": "America/Curacao",
+                "city": "Willemstad",
+                "country": "Curacao",
+                "city_ja": "ウィレムスタット",
+                "country_ja": "キュラソー"
+            },
+            {
+                "timezone": "America/Danmarkshavn",
+                "city": "Danmarkshavn",
+                "country": "Greenland",
+                "city_ja": "デンマークシャウン",
+                "country_ja": "グリーンランド"
+            },
+            {
+                "timezone": "America/Dawson",
+                "city": "Dawson City",
+                "country": "Canada",
+                "city_ja": "ドーソンシティ",
+                "country_ja": "カナダ"
+            },
+            {
+                "timezone": "America/Dawson_Creek",
+                "city": "Dawson Creek",
+                "country": "Canada",
+                "city_ja": "ドーソンクリーク",
+                "country_ja": "カナダ"
+            },
+            {
+                "timezone": "America/Denver",
+                "city": "Denver",
+                "country": "U.S.A.",
+                "city_ja": "デンバー",
+                "country_ja": "米国"
+            },
+            {
+                "timezone": "America/Detroit",
+                "city": "Detroit",
+                "country": "U.S.A.",
+                "city_ja": "デトロイト",
+                "country_ja": "米国"
+            },
+            {
+                "timezone": "America/Dominica",
+                "city": "Roseau",
+                "country": "Dominica",
+                "city_ja": "ロゾー",
+                "country_ja": "ドミニカ"
+            },
+            {
+                "timezone": "America/Edmonton",
+                "city": "Edmonton",
+                "country": "Canada",
+                "city_ja": "エドモントン",
+                "country_ja": "カナダ"
+            },
+            {
+                "timezone": "America/Eirunepe",
+                "city": "Eirunepe",
+                "country": "Brazil",
+                "city_ja": "エイルネペ",
+                "country_ja": "ブラジル"
+            },
+            {
+                "timezone": "America/El_Salvador",
+                "city": "San Salvador",
+                "country": "El Salvador",
+                "city_ja": "サンサルバドル",
+                "country_ja": "エルサルバドル"
+            },
+            {
+                "timezone": "America/Fort_Nelson",
+                "city": "Fort Nelson",
+                "country": "Canada",
+                "city_ja": "フォート・ネルソン",
+                "country_ja": "カナダ"
+            },
+            {
+                "timezone": "America/Fortaleza",
+                "city": "Fortaleza",
+                "country": "Brazil",
+                "city_ja": "フォルタレザ",
+                "country_ja": "ブラジル"
+            },
+            {
+                "timezone": "America/Glace_Bay",
+                "city": "Glace Bay",
+                "country": "Canada",
+                "city_ja": "グレースベイ",
+                "country_ja": "カナダ"
+            },
+            {
+                "timezone": "America/Godthab",
+                "city": "Nuuk",
+                "country": "Greenland",
+                "city_ja": "ヌーク",
+                "country_ja": "グリーンランド"
+            },
+            {
+                "timezone": "America/Goose_Bay",
+                "city": "Happy Valley-Goose Bay",
+                "country": "Canada",
+                "city_ja": "ハッピーバレー・グースベイ",
+                "country_ja": "カナダ"
+            },
+            {
+                "timezone": "America/Grand_Turk",
+                "city": "Cockburn Town",
+                "country": "Turks and Caicos Islands",
+                "city_ja": "コックバーン・タウン",
+                "country_ja": "タークスおよびカイコス諸島"
+            },
+            {
+                "timezone": "America/Grenada",
+                "city": "St. George’s",
+                "country": "Grenada",
+                "city_ja": "セントジョージ",
+                "country_ja": "グレナダ"
+            },
+            {
+                "timezone": "America/Guadeloupe",
+                "city": "Basse-Terre",
+                "country": "Guadeloupe",
+                "city_ja": "バステール",
+                "country_ja": "グアドループ"
+            },
+            {
+                "timezone": "America/Guatemala",
+                "city": "Guatemala City",
+                "country": "Guatemala",
+                "city_ja": "グアテマラシティ",
+                "country_ja": "グアテマラ"
+            },
+            {
+                "timezone": "America/Guayaquil",
+                "city": "Guayaquil",
+                "country": "Ecuador",
+                "city_ja": "グアヤキル",
+                "country_ja": "エクアドル"
+            },
+            {
+                "timezone": "America/Guyana",
+                "city": "Georgetown",
+                "country": "Guyana",
+                "city_ja": "ジョージタウン",
+                "country_ja": "ガイアナ"
+            },
+            {
+                "timezone": "America/Halifax",
+                "city": "Halifax",
+                "country": "Canada",
+                "city_ja": "ハリファクス",
+                "country_ja": "カナダ"
+            },
+            {
+                "timezone": "America/Havana",
+                "city": "Havana",
+                "country": "Cuba",
+                "city_ja": "ハバナ",
+                "country_ja": "キューバ"
+            },
+            {
+                "timezone": "America/Hermosillo",
+                "city": "Hermosillo",
+                "country": "Mexico",
+                "city_ja": "エルモシヨ",
+                "country_ja": "メキシコ"
+            },
+            {
+                "timezone": "America/Inuvik",
+                "city": "Inuvik",
+                "country": "Canada",
+                "city_ja": "イヌヴィク",
+                "country_ja": "カナダ"
+            },
+            {
+                "timezone": "America/Iqaluit",
+                "city": "Iqaluit",
+                "country": "Canada",
+                "city_ja": "イカルイト",
+                "country_ja": "カナダ"
+            },
+            {
+                "timezone": "America/Jamaica",
+                "city": "Kingston",
+                "country": "Jamaica",
+                "city_ja": "キングストン",
+                "country_ja": "ジャマイカ"
+            },
+            {
+                "timezone": "America/Juneau",
+                "city": "Juneau",
+                "country": "U.S.A.",
+                "city_ja": "ジュノー",
+                "country_ja": "米国"
+            },
+            {
+                "timezone": "America/Kralendijk",
+                "city": "Kralendijk",
+                "country": "Bonaire",
+                "city_ja": "クラレンダイク",
+                "country_ja": "ボネール"
+            },
+            {
+                "timezone": "America/La_Paz",
+                "city": "La Paz",
+                "country": "Bolivia",
+                "city_ja": "ラ・パス",
+                "country_ja": "ボリビア"
+            },
+            {
+                "timezone": "America/Lima",
+                "city": "Lima",
+                "country": "Peru",
+                "city_ja": "リマ",
+                "country_ja": "ペルー"
+            },
+            {
+                "timezone": "America/Los_Angeles",
+                "city": "Los Angeles",
+                "country": "U.S.A.",
+                "city_ja": "ロサンゼルス",
+                "country_ja": "米国"
+            },
+            {
+                "timezone": "America/Lower_Princes",
+                "city": "Lower Prince's Quarter",
+                "country": "Sint Maarten",
+                "city_ja": "ローワー・プリンセズ・クウォーター",
+                "country_ja": "シント・マールテン"
+            },
+            {
+                "timezone": "America/Maceio",
+                "city": "Maceio",
+                "country": "Brazil",
+                "city_ja": "マセイオ",
+                "country_ja": "ブラジル"
+            },
+            {
+                "timezone": "America/Managua",
+                "city": "Managua",
+                "country": "Nicaragua",
+                "city_ja": "マナグア",
+                "country_ja": "ニカラグア"
+            },
+            {
+                "timezone": "America/Manaus",
+                "city": "Manaus",
+                "country": "Brazil",
+                "city_ja": "マナウス",
+                "country_ja": "ブラジル"
+            },
+            {
+                "timezone": "America/Marigot",
+                "city": "Marigot",
+                "country": "Saint Martin",
+                "city_ja": "マリゴ",
+                "country_ja": "サンマルタン"
+            },
+            {
+                "timezone": "America/Martinique",
+                "city": "Fort-de-France",
+                "country": "Martinique",
+                "city_ja": "フォール・ド・フランス",
+                "country_ja": "マルティニーク"
+            },
+            {
+                "timezone": "America/Matamoros",
+                "city": "Matamoros",
+                "country": "Mexico",
+                "city_ja": "マタモロス",
+                "country_ja": "メキシコ"
+            },
+            {
+                "timezone": "America/Mazatlan",
+                "city": "Mazatlán",
+                "country": "Mexico",
+                "city_ja": "マサトラン",
+                "country_ja": "メキシコ"
+            },
+            {
+                "timezone": "America/Menominee",
+                "city": "Menominee",
+                "country": "U.S.A.",
+                "city_ja": "メノミニー",
+                "country_ja": "米国"
+            },
+            {
+                "timezone": "America/Merida",
+                "city": "Mérida",
+                "country": "Mexico",
+                "city_ja": "メリダ",
+                "country_ja": "メキシコ"
+            },
+            {
+                "timezone": "America/Metlakatla",
+                "city": "Metlakatla",
+                "country": "U.S.A.",
+                "city_ja": "メトラカトラ",
+                "country_ja": "米国"
+            },
+            {
+                "timezone": "America/Mexico_City",
+                "city": "Mexico City",
+                "country": "Mexico",
+                "city_ja": "メキシコシティ",
+                "country_ja": "メキシコ"
+            },
+            {
+                "timezone": "America/Miquelon",
+                "city": "Miquelon",
+                "country": "Saint Pierre and Miquelon",
+                "city_ja": "ミクロン",
+                "country_ja": "サンピエール・ミクロン"
+            },
+            {
+                "timezone": "America/Moncton",
+                "city": "Moncton",
+                "country": "Canada",
+                "city_ja": "モンクトン",
+                "country_ja": "カナダ"
+            },
+            {
+                "timezone": "America/Monterrey",
+                "city": "Monterrey",
+                "country": "Mexico",
+                "city_ja": "モンテレー",
+                "country_ja": "メキシコ"
+            },
+            {
+                "timezone": "America/Montevideo",
+                "city": "Montevideo",
+                "country": "Uruguay",
+                "city_ja": "モンテビデオ",
+                "country_ja": "ウルグアイ"
+            },
+            {
+                "timezone": "America/Montreal",
+                "city": "Montreal",
+                "country": "Canada",
+                "city_ja": "モントリオール",
+                "country_ja": "カナダ"
+            },
+            {
+                "timezone": "America/Montserrat",
+                "city": "Little Bay",
+                "country": "Montserrat",
+                "city_ja": "リトル・ベイ",
+                "country_ja": "モントセラト"
+            },
+            {
+                "timezone": "America/Nassau",
+                "city": "Nassau",
+                "country": "Bahamas",
+                "city_ja": "ナッソー",
+                "country_ja": "バハマ"
+            },
+            {
+                "timezone": "America/New_York",
+                "city": "New York",
+                "country": "U.S.A.",
+                "city_ja": "ニューヨーク",
+                "country_ja": "米国"
+            },
+            {
+                "timezone": "America/Nipigon",
+                "city": "Nipigon",
+                "country": "Canada",
+                "city_ja": "ニピゴン",
+                "country_ja": "カナダ"
+            },
+            {
+                "timezone": "America/Nome",
+                "city": "Nome",
+                "country": "U.S.A.",
+                "city_ja": "ノーメ",
+                "country_ja": "米国"
+            },
+            {
+                "timezone": "America/Noronha",
+                "city": "Fernando de Noronha",
+                "country": "Brazil",
+                "city_ja": "フェルナンド・デ・ノローニャ",
+                "country_ja": "ブラジル"
+            },
+            {
+                "timezone": "America/Ojinaga",
+                "city": "Ojinaga",
+                "country": "Mexico",
+                "city_ja": "オヒナガ",
+                "country_ja": "メキシコ"
+            },
+            {
+                "timezone": "America/Panama",
+                "city": "Panama City",
+                "country": "Panama",
+                "city_ja": "パナマシティ",
+                "country_ja": "パナマ"
+            },
+            {
+                "timezone": "America/Pangnirtung",
+                "city": "Pangnirtung",
+                "country": "Canada",
+                "city_ja": "パンナータング",
+                "country_ja": "カナダ"
+            },
+            {
+                "timezone": "America/Paramaribo",
+                "city": "Paramaribo",
+                "country": "Surinam",
+                "city_ja": "パラマリボ",
+                "country_ja": "スリナム"
+            },
+            {
+                "timezone": "America/Phoenix",
+                "city": "Phoenix",
+                "country": "U.S.A.",
+                "city_ja": "フェニックス",
+                "country_ja": "米国"
+            },
+            {
+                "timezone": "America/Port_of_Spain",
+                "city": "Port of Spain",
+                "country": "Torinidad Tobago",
+                "city_ja": "ポートオブスペイン",
+                "country_ja": "トリニダード・トバゴ"
+            },
+            {
+                "timezone": "America/Port-au-Prince",
+                "city": "Port-au-Prince",
+                "country": "Haiti",
+                "city_ja": "ポルトープランス",
+                "country_ja": "ハイチ"
+            },
+            {
+                "timezone": "America/Porto_Velho",
+                "city": "Porto Velho",
+                "country": "Brazil",
+                "city_ja": "ポルトベリョ",
+                "country_ja": "ブラジル"
+            },
+            {
+                "timezone": "America/Puerto_Rico",
+                "city": "San Juan",
+                "country": "Puerto Rico",
+                "city_ja": "サンフアン",
+                "country_ja": "プエルトリコ"
+            },
+            {
+                "timezone": "America/Punta_Arenas",
+                "city": "Punta Arenas",
+                "country": "Chile",
+                "city_ja": "プンタ・アレーナス",
+                "country_ja": "チリ"
+            },
+            {
+                "timezone": "America/Rainy_River",
+                "city": "Rainy River",
+                "country": "Canada",
+                "city_ja": "レイニーリバー",
+                "country_ja": "カナダ"
+            },
+            {
+                "timezone": "America/Rankin_Inlet",
+                "city": "Rankin Inlet",
+                "country": "Canada",
+                "city_ja": "ランキン湾",
+                "country_ja": "カナダ"
+            },
+            {
+                "timezone": "America/Recife",
+                "city": "Recife",
+                "country": "Brazil",
+                "city_ja": "レシフェ",
+                "country_ja": "ブラジル"
+            },
+            {
+                "timezone": "America/Regina",
+                "city": "Regina",
+                "country": "Canada",
+                "city_ja": "レジャイナ",
+                "country_ja": "カナダ"
+            },
+            {
+                "timezone": "America/Resolute",
+                "city": "Resolute",
+                "country": "Canada",
+                "city_ja": "レゾリュート",
+                "country_ja": "カナダ"
+            },
+            {
+                "timezone": "America/Rio_Branco",
+                "city": "Rio Branco",
+                "country": "Brazil",
+                "city_ja": "リオブランコ",
+                "country_ja": "ブラジル"
+            },
+            {
+                "timezone": "America/Santa_Isabel",
+                "city": "Santa Isabel",
+                "country": "Mexico",
+                "city_ja": "サンタ・イサベル",
+                "country_ja": "メキシコ"
+            },
+            {
+                "timezone": "America/Santarem",
+                "city": "Santarém",
+                "country": "Brazil",
+                "city_ja": "サンタレン",
+                "country_ja": "ブラジル"
+            },
+            {
+                "timezone": "America/Santiago",
+                "city": "Santiago",
+                "country": "Chile",
+                "city_ja": "サンティアゴ",
+                "country_ja": "チリ"
+            },
+            {
+                "timezone": "America/Santo_Domingo",
+                "city": "Santo Domingo",
+                "country": "Dominican Republic",
+                "city_ja": "サントドミンゴ",
+                "country_ja": "ドミニカ共和国"
+            },
+            {
+                "timezone": "America/Sao_Paulo",
+                "city": "São Paulo",
+                "country": "Brazil",
+                "city_ja": "サンパウロ",
+                "country_ja": "ブラジル"
+            },
+            {
+                "timezone": "America/Scoresbysund",
+                "city": "Ittoqqortoormiit",
+                "country": "Greenland",
+                "city_ja": "イッドコドーミド",
+                "country_ja": "グリーンランド"
+            },
+            {
+                "timezone": "America/Shiprock",
+                "city": "Shiprock",
+                "country": "U.S.A.",
+                "city_ja": "シップロック",
+                "country_ja": "米国"
+            },
+            {
+                "timezone": "America/Sitka",
+                "city": "Sitka",
+                "country": "U.S.A.",
+                "city_ja": "シトカ",
+                "country_ja": "米国"
+            },
+            {
+                "timezone": "America/St_Barthelemy",
+                "city": "Gustavia",
+                "country": "Saint Barthelemy",
+                "city_ja": "グスタビア",
+                "country_ja": "サン・バルテルミ"
+            },
+            {
+                "timezone": "America/St_Johns",
+                "city": "St. John's",
+                "country": "Canada",
+                "city_ja": "セントジョンズ",
+                "country_ja": "カナダ"
+            },
+            {
+                "timezone": "America/St_Kitts",
+                "city": "Basseterre",
+                "country": "Saint Kitts and Nevis",
+                "city_ja": "バセテール",
+                "country_ja": "セントクリストファー・ネイビス"
+            },
+            {
+                "timezone": "America/St_Lucia",
+                "city": "Castries",
+                "country": "Saint Lucia",
+                "city_ja": "カストリーズ",
+                "country_ja": "セントルシア"
+            },
+            {
+                "timezone": "America/St_Thomas",
+                "city": "Saint Tomas",
+                "country": "U.S.Virgin Islands",
+                "city_ja": "セント・トーマス島",
+                "country_ja": "米領バージン諸島"
+            },
+            {
+                "timezone": "America/St_Vincent",
+                "city": "Kingstown",
+                "country": "Saint Vincent and the Grenadines",
+                "city_ja": "キングスタウン",
+                "country_ja": "セントビンセントおよびグレナディーン諸島"
+            },
+            {
+                "timezone": "America/Swift_Current",
+                "city": "Swift Current",
+                "country": "Canada",
+                "city_ja": "スイフトカレント",
+                "country_ja": "カナダ"
+            },
+            {
+                "timezone": "America/Tegucigalpa",
+                "city": "Tegucigalpa",
+                "country": "Honduras",
+                "city_ja": "テグシガルパ",
+                "country_ja": "ホンジュラス"
+            },
+            {
+                "timezone": "America/Thule",
+                "city": "Thule",
+                "country": "Greenland",
+                "city_ja": "ツーレ",
+                "country_ja": "グリーンランド"
+            },
+            {
+                "timezone": "America/Thunder_Bay",
+                "city": "Thunder Bay",
+                "country": "Canada",
+                "city_ja": "サンダーベイ",
+                "country_ja": "カナダ"
+            },
+            {
+                "timezone": "America/Tijuana",
+                "city": "Tijuana",
+                "country": "Mexico",
+                "city_ja": "ティフアナ",
+                "country_ja": "メキシコ"
+            },
+            {
+                "timezone": "America/Toronto",
+                "city": "Toronto",
+                "country": "Canada",
+                "city_ja": "トロント",
+                "country_ja": "カナダ"
+            },
+            {
+                "timezone": "America/Tortola",
+                "city": "Road Town",
+                "country": "British Virgin Islands",
+                "city_ja": "ロードタウン",
+                "country_ja": "英領バージン諸島"
+            },
+            {
+                "timezone": "America/Vancouver",
+                "city": "Vancouver",
+                "country": "Canada",
+                "city_ja": "バンクーバー",
+                "country_ja": "カナダ"
+            },
+            {
+                "timezone": "America/Whitehorse",
+                "city": "Whitehorse",
+                "country": "Canada",
+                "city_ja": "ホワイトホース",
+                "country_ja": "カナダ"
+            },
+            {
+                "timezone": "America/Winnipeg",
+                "city": "Winnipeg",
+                "country": "Canada",
+                "city_ja": "ウィニペグ",
+                "country_ja": "カナダ"
+            },
+            {
+                "timezone": "America/Yakutat",
+                "city": "Yakutat",
+                "country": "U.S.A.",
+                "city_ja": "ヤクタット",
+                "country_ja": "米国"
+            },
+            {
+                "timezone": "America/Yellowknife",
+                "city": "Yellowknife",
+                "country": "Canada",
+                "city_ja": "イエローナイフ",
+                "country_ja": "カナダ"
+            }
+        ]
+    },
+    {
+        "english": "America/Argentina",
+        "cities": [
+            {
+                "timezone": "America/Argentina/Buenos_Aires",
+                "city": "Buenos Aires",
+                "country": "Argentina",
+                "city_ja": "ブエノスアイレス",
+                "country_ja": "アルゼンチン"
+            },
+            {
+                "timezone": "America/Argentina/Catamarca",
+                "city": "Catamarca",
+                "country": "Argentina",
+                "city_ja": "カタマルカ",
+                "country_ja": "アルゼンチン"
+            },
+            {
+                "timezone": "America/Argentina/Cordoba",
+                "city": "Cordoba",
+                "country": "Argentina",
+                "city_ja": "コルドバ",
+                "country_ja": "アルゼンチン"
+            },
+            {
+                "timezone": "America/Argentina/Jujuy",
+                "city": "San Salvador de Jujuy",
+                "country": "Argentina",
+                "city_ja": "サン・サルバドール・デ・フフイ",
+                "country_ja": "アルゼンチン"
+            },
+            {
+                "timezone": "America/Argentina/La_Rioja",
+                "city": "La Rioja",
+                "country": "Argentina",
+                "city_ja": "ラ・リオハ",
+                "country_ja": "アルゼンチン"
+            },
+            {
+                "timezone": "America/Argentina/Mendoza",
+                "city": "Mendoza",
+                "country": "Argentina",
+                "city_ja": "メンドーサ",
+                "country_ja": "アルゼンチン"
+            },
+            {
+                "timezone": "America/Argentina/Rio_Gallegos",
+                "city": "Rio Gallegos",
+                "country": "Argentina",
+                "city_ja": "リオガイェゴス",
+                "country_ja": "アルゼンチン"
+            },
+            {
+                "timezone": "America/Argentina/Salta",
+                "city": "Salta",
+                "country": "Argentina",
+                "city_ja": "サルタ",
+                "country_ja": "アルゼンチン"
+            },
+            {
+                "timezone": "America/Argentina/San_Juan",
+                "city": "San Juan",
+                "country": "Argentina",
+                "city_ja": "サンフアン",
+                "country_ja": "アルゼンチン"
+            },
+            {
+                "timezone": "America/Argentina/San_Luis",
+                "city": "San Luis",
+                "country": "Argentina",
+                "city_ja": "サンルイス",
+                "country_ja": "アルゼンチン"
+            },
+            {
+                "timezone": "America/Argentina/Tucuman",
+                "city": "San Miguel de Tucumán",
+                "country": "Argentina",
+                "city_ja": "サン・ミゲル・デ・トゥクマン",
+                "country_ja": "アルゼンチン"
+            },
+            {
+                "timezone": "America/Argentina/Ushuaia",
+                "city": "Ushuaia",
+                "country": "Argentina",
+                "city_ja": "ウシュアイア",
+                "country_ja": "アルゼンチン"
+            }
+        ]
+    },
+    {
+        "english": "America/Indiana",
+        "cities": [
+            {
+                "timezone": "America/Indiana/Indianapolis",
+                "city": "Indianapolis",
+                "country": "U.S.A.",
+                "city_ja": "インディアナポリス",
+                "country_ja": "米国"
+            },
+            {
+                "timezone": "America/Indiana/Knox",
+                "city": "Knox",
+                "country": "U.S.A.",
+                "city_ja": "ノックス",
+                "country_ja": "米国"
+            },
+            {
+                "timezone": "America/Indiana/Marengo",
+                "city": "Marengo",
+                "country": "U.S.A.",
+                "city_ja": "マレンゴ",
+                "country_ja": "米国"
+            },
+            {
+                "timezone": "America/Indiana/Petersburg",
+                "city": "Petersburg",
+                "country": "U.S.A.",
+                "city_ja": "ピータースバーグ",
+                "country_ja": "米国"
+            },
+            {
+                "timezone": "America/Indiana/Tell_City",
+                "city": "Tell City",
+                "country": "U.S.A.",
+                "city_ja": "テルシティ",
+                "country_ja": "米国"
+            },
+            {
+                "timezone": "America/Indiana/Vevay",
+                "city": "Vevay",
+                "country": "U.S.A.",
+                "city_ja": "ビベイ",
+                "country_ja": "米国"
+            },
+            {
+                "timezone": "America/Indiana/Vincennes",
+                "city": "Vincennes",
+                "country": "U.S.A.",
+                "city_ja": "ビンセンス",
+                "country_ja": "米国"
+            },
+            {
+                "timezone": "America/Indiana/Winamac",
+                "city": "Winamac",
+                "country": "U.S.A.",
+                "city_ja": "ウィナマク",
+                "country_ja": "米国"
+            }
+        ]
+    },
+    {
+        "english": "America/Kentucky",
+        "cities": [
+            {
+                "timezone": "America/Kentucky/Louisville",
+                "city": "Louisville",
+                "country": "U.S.A.",
+                "city_ja": "ルイビル",
+                "country_ja": "米国"
+            },
+            {
+                "timezone": "America/Kentucky/Monticello",
+                "city": "Monticello",
+                "country": "U.S.A.",
+                "city_ja": "モンティチェロ",
+                "country_ja": "米国"
+            }
+        ]
+    },
+    {
+        "english": "America/North_Dakota",
+        "cities": [
+            {
+                "timezone": "America/North_Dakota/Beulah",
+                "city": "Beulah",
+                "country": "U.S.A.",
+                "city_ja": "ベウラ",
+                "country_ja": "米国"
+            },
+            {
+                "timezone": "America/North_Dakota/Center",
+                "city": "Center",
+                "country": "U.S.A.",
+                "city_ja": "センター",
+                "country_ja": "米国"
+            },
+            {
+                "timezone": "America/North_Dakota/New_Salem",
+                "city": "New Salem",
+                "country": "U.S.A.",
+                "city_ja": "ニューサレム",
+                "country_ja": "米国"
+            }
+        ]
+    },
+    {
+        "english": "Antarctica",
+        "cities": [
+            {
+                "timezone": "Antarctica/Casey",
+                "city": "Casey Station",
+                "country": "Antarctica",
+                "city_ja": "ケーシー基地",
+                "country_ja": "南極"
+            },
+            {
+                "timezone": "Antarctica/Davis",
+                "city": "Davis Station",
+                "country": "Antarctica",
+                "city_ja": "デービス基地",
+                "country_ja": "南極"
+            },
+            {
+                "timezone": "Antarctica/DumontDUrville",
+                "city": "Dumont-d'Urville Station",
+                "country": "Antarctica",
+                "city_ja": "デュモン・デュルヴィル基地",
+                "country_ja": "南極"
+            },
+            {
+                "timezone": "Antarctica/Macquarie",
+                "city": "Macquarie Island Station",
+                "country": "Antarctica",
+                "city_ja": "マッコーリー島基地",
+                "country_ja": "南極"
+            },
+            {
+                "timezone": "Antarctica/Mawson",
+                "city": "Mawson Station",
+                "country": "Antarctica",
+                "city_ja": "モーソン基地",
+                "country_ja": "南極"
+            },
+            {
+                "timezone": "Antarctica/McMurdo",
+                "city": "McMurdo Station",
+                "country": "Antarctica",
+                "city_ja": "マクマード基地",
+                "country_ja": "南極"
+            },
+            {
+                "timezone": "Antarctica/Palmer",
+                "city": "Palmer Station",
+                "country": "Antarctica",
+                "city_ja": "パーマー基地",
+                "country_ja": "南極"
+            },
+            {
+                "timezone": "Antarctica/Rothera",
+                "city": "Rothera Station",
+                "country": "Antarctica",
+                "city_ja": "ロゼラ基地",
+                "country_ja": "南極"
+            },
+            {
+                "timezone": "Antarctica/South_Pole",
+                "city": "South Pole",
+                "country": "Antarctica",
+                "city_ja": "南極点",
+                "country_ja": "南極"
+            },
+            {
+                "timezone": "Antarctica/Syowa",
+                "city": "Syowa Station",
+                "country": "Antarctica",
+                "city_ja": "昭和基地",
+                "country_ja": "南極"
+            },
+            {
+                "timezone": "Antarctica/Troll",
+                "city": "Troll",
+                "country": "Antarctica",
+                "city_ja": "トロール基地",
+                "country_ja": "南極"
+            },
+            {
+                "timezone": "Antarctica/Vostok",
+                "city": "Vostok Station",
+                "country": "Antarctica",
+                "city_ja": "ボストーク基地",
+                "country_ja": "南極"
+            }
+        ]
+    },
+    {
+        "english": "Arctic",
+        "cities": [
+            {
+                "timezone": "Arctic/Longyearbyen",
+                "city": "Longyearbyen",
+                "country": "Arctic",
+                "city_ja": "ロングイェールビーン",
+                "country_ja": "北極"
+            }
+        ]
+    },
+    {
+        "english": "Asia",
+        "cities": [
+            {
+                "timezone": "Asia/Aden",
+                "city": "Aden",
+                "country": "Yemen",
+                "city_ja": "アデン",
+                "country_ja": "イエメン"
+            },
+            {
+                "timezone": "Asia/Almaty",
+                "city": "Almaty",
+                "country": "Kazakhstan",
+                "city_ja": "アスタナ",
+                "country_ja": "カザフスタン"
+            },
+            {
+                "timezone": "Asia/Amman",
+                "city": "Amman",
+                "country": "Jordan",
+                "city_ja": "アンマン",
+                "country_ja": "ヨルダン"
+            },
+            {
+                "timezone": "Asia/Anadyr",
+                "city": "Anadyr",
+                "country": "Russia",
+                "city_ja": "アナディル",
+                "country_ja": "ロシア"
+            },
+            {
+                "timezone": "Asia/Aqtau",
+                "city": "Aktau",
+                "country": "Kazakhstan",
+                "city_ja": "アクタウ",
+                "country_ja": "カザフスタン"
+            },
+            {
+                "timezone": "Asia/Aqtobe",
+                "city": "Aktobe",
+                "country": "Kazakhstan",
+                "city_ja": "アクトベ",
+                "country_ja": "カザフスタン"
+            },
+            {
+                "timezone": "Asia/Ashgabat",
+                "city": "Ashgabat",
+                "country": "Turkmenistan",
+                "city_ja": "アシガバード",
+                "country_ja": "トルクメニスタン"
+            },
+            {
+                "timezone": "Asia/Atyrau",
+                "city": "Atyrau",
+                "country": "Kazakhs",
+                "city_ja": "アティラウ",
+                "country_ja": "カザフスタン"
+            },
+            {
+                "timezone": "Asia/Baghdad",
+                "city": "Baghdad",
+                "country": "Iraq",
+                "city_ja": "バグダッド",
+                "country_ja": "イラク"
+            },
+            {
+                "timezone": "Asia/Bahrain",
+                "city": "Manama",
+                "country": "Bahrain",
+                "city_ja": "マナマ",
+                "country_ja": "バーレーン"
+            },
+            {
+                "timezone": "Asia/Baku",
+                "city": "Baku",
+                "country": "Azerbaijan",
+                "city_ja": "バクー",
+                "country_ja": "アゼルバイジャン"
+            },
+            {
+                "timezone": "Asia/Bangkok",
+                "city": "Bangkok",
+                "country": "Thailand",
+                "city_ja": "バンコク",
+                "country_ja": "タイ"
+            },
+            {
+                "timezone": "Asia/Barnaul",
+                "city": "Barnaul",
+                "country": "Russia",
+                "city_ja": "バルナウル",
+                "country_ja": "ロシア"
+            },
+            {
+                "timezone": "Asia/Beirut",
+                "city": "Beirut",
+                "country": "Lebanon",
+                "city_ja": "ベイルート",
+                "country_ja": "レバノン"
+            },
+            {
+                "timezone": "Asia/Bishkek",
+                "city": "Bishkek",
+                "country": "Kyrgyzstan",
+                "city_ja": "ビシケク",
+                "country_ja": "キルギスタン"
+            },
+            {
+                "timezone": "Asia/Brunei",
+                "city": "Bandar Seri Begawan",
+                "country": "Brunei",
+                "city_ja": "バンダル・スリ・ブガワン",
+                "country_ja": "ブルネイ"
+            },
+            {
+                "timezone": "Asia/Calcutta",
+                "city": "Calcutta",
+                "country": "India",
+                "city_ja": "カルカッタ",
+                "country_ja": "インド"
+            },
+            {
+                "timezone": "Asia/Chita",
+                "city": "Chita",
+                "country": "Russia",
+                "city_ja": "チタ",
+                "country_ja": "ロシア"
+            },
+            {
+                "timezone": "Asia/Choibalsan",
+                "city": "Choibalsan",
+                "country": "Mongolia",
+                "city_ja": "チョイバルサン",
+                "country_ja": "モンゴル"
+            },
+            {
+                "timezone": "Asia/Chongqing",
+                "city": "Chongqing",
+                "country": "China",
+                "city_ja": "重慶",
+                "country_ja": "中国"
+            },
+            {
+                "timezone": "Asia/Colombo",
+                "city": "Colombo",
+                "country": "Sri Lanka",
+                "city_ja": "コロンボ",
+                "country_ja": "スリランカ"
+            },
+            {
+                "timezone": "Asia/Damascus",
+                "city": "Damascus",
+                "country": "Syria",
+                "city_ja": "ダマスカス",
+                "country_ja": "シリア"
+            },
+            {
+                "timezone": "Asia/Dhaka",
+                "city": "Dhaka",
+                "country": "Bangladesh",
+                "city_ja": "ダッカ",
+                "country_ja": "バングラデシュ"
+            },
+            {
+                "timezone": "Asia/Dili",
+                "city": "Dili",
+                "country": "East Timor",
+                "city_ja": "ディリ",
+                "country_ja": "東チモール"
+            },
+            {
+                "timezone": "Asia/Dubai",
+                "city": "Dubai",
+                "country": "U.A.E.",
+                "city_ja": "ドバイ",
+                "country_ja": "U.A.E."
+            },
+            {
+                "timezone": "Asia/Dushanbe",
+                "city": "Dushanbe",
+                "country": "Tajikistan",
+                "city_ja": "ドゥシャンベ",
+                "country_ja": "タジキスタン"
+            },
+            {
+                "timezone": "Asia/Famagusta",
+                "city": "Famagusta",
+                "country": "Cyprus",
+                "city_ja": "ファマグスタ",
+                "country_ja": "キプロス"
+            },
+            {
+                "timezone": "Asia/Gaza",
+                "city": "Gaza",
+                "country": "Palestinian Territories",
+                "city_ja": "ガザ",
+                "country_ja": "パレスチナ"
+            },
+            {
+                "timezone": "Asia/Harbin",
+                "city": "Harbin",
+                "country": "China",
+                "city_ja": "ハルビン",
+                "country_ja": "中国"
+            },
+            {
+                "timezone": "Asia/Hebron",
+                "city": "Hebron",
+                "country": "Palestinian Territories",
+                "city_ja": "ヘブロン",
+                "country_ja": "パレスチナ"
+            },
+            {
+                "timezone": "Asia/Ho_Chi_Minh",
+                "city": "Ho Chi Minh City",
+                "country": "Vietnam",
+                "city_ja": "ホーチミン",
+                "country_ja": "ベトナム"
+            },
+            {
+                "timezone": "Asia/Hong_Kong",
+                "city": "Hong Kong",
+                "country": "Hong Kong",
+                "city_ja": "香港",
+                "country_ja": "香港"
+            },
+            {
+                "timezone": "Asia/Hovd",
+                "city": "Hovd",
+                "country": "Mongolia",
+                "city_ja": "ホフト",
+                "country_ja": "モンゴル"
+            },
+            {
+                "timezone": "Asia/Irkutsk",
+                "city": "Irkutsk",
+                "country": "Russia",
+                "city_ja": "イルクーツク",
+                "country_ja": "ロシア"
+            },
+            {
+                "timezone": "Asia/Jakarta",
+                "city": "Jakarta",
+                "country": "Indonesia",
+                "city_ja": "ジャカルタ",
+                "country_ja": "インドネシア"
+            },
+            {
+                "timezone": "Asia/Jayapura",
+                "city": "Jayapura",
+                "country": "Indonesia",
+                "city_ja": "ジャヤプラ",
+                "country_ja": "インドネシア"
+            },
+            {
+                "timezone": "Asia/Jerusalem",
+                "city": "Jerusalem",
+                "country": "Israelis",
+                "city_ja": "エルサレム",
+                "country_ja": "イスラエル"
+            },
+            {
+                "timezone": "Asia/Jerusalem",
+                "city": "Jerusalem",
+                "country": "Palestinians",
+                "city_ja": "エルサレム",
+                "country_ja": "パレスチナ"
+            },
+            {
+                "timezone": "Asia/Kabul",
+                "city": "Kabul",
+                "country": "Afghanistan",
+                "city_ja": "カブール",
+                "country_ja": "アフガニスタン"
+            },
+            {
+                "timezone": "Asia/Kamchatka",
+                "city": "Petropavlovsk-Kamchatskiy",
+                "country": "Russia",
+                "city_ja": "ペトロパブロフスク・カムチャツキー",
+                "country_ja": "ロシア"
+            },
+            {
+                "timezone": "Asia/Karachi",
+                "city": "Karachi",
+                "country": "Pakistan",
+                "city_ja": "カラチ",
+                "country_ja": "パキスタン"
+            },
+            {
+                "timezone": "Asia/Kashgar",
+                "city": "Kashgar",
+                "country": "China",
+                "city_ja": "カシュガル",
+                "country_ja": "中国"
+            },
+            {
+                "timezone": "Asia/Kathmandu",
+                "city": "Kathmandu",
+                "country": "Nepal",
+                "city_ja": "カトマンズ",
+                "country_ja": "ネパール"
+            },
+            {
+                "timezone": "Asia/Katmandu",
+                "city": "Kathmandu",
+                "country": "Nepal",
+                "city_ja": "カトマンズ",
+                "country_ja": "ネパール"
+            },
+            {
+                "timezone": "Asia/Khandyga",
+                "city": "Khandyga",
+                "country": "Russia",
+                "city_ja": "ハンドゥイガ",
+                "country_ja": "ロシア"
+            },
+            {
+                "timezone": "Asia/Calcutta",
+                "city": "Kolkata",
+                "country": "India",
+                "city_ja": "コルカタ",
+                "country_ja": "インド"
+            },
+            {
+                "timezone": "Asia/Krasnoyarsk",
+                "city": "Krasnoyarsk",
+                "country": "Russia",
+                "city_ja": "クラスノヤルスク",
+                "country_ja": "ロシア"
+            },
+            {
+                "timezone": "Asia/Kuala_Lumpur",
+                "city": "Kuala Lumpur",
+                "country": "Malaysia",
+                "city_ja": "クアラルンプール",
+                "country_ja": "マレーシア"
+            },
+            {
+                "timezone": "Asia/Kuching",
+                "city": "Kuching",
+                "country": "Malaysia",
+                "city_ja": "クチン",
+                "country_ja": "マレーシア"
+            },
+            {
+                "timezone": "Asia/Kuwait",
+                "city": "Kuwait",
+                "country": "Kuwait",
+                "city_ja": "クウェート",
+                "country_ja": "クウェート"
+            },
+            {
+                "timezone": "Asia/Macau",
+                "city": "Macau",
+                "country": "Macau",
+                "city_ja": "マカオ",
+                "country_ja": "マカオ"
+            },
+            {
+                "timezone": "Asia/Magadan",
+                "city": "Magadan",
+                "country": "Russia",
+                "city_ja": "マガダン",
+                "country_ja": "ロシア"
+            },
+            {
+                "timezone": "Asia/Makassar",
+                "city": "Makassar",
+                "country": "Indonesia",
+                "city_ja": "マカッサル",
+                "country_ja": "インドネシア"
+            },
+            {
+                "timezone": "Asia/Manila",
+                "city": "Manila",
+                "country": "Philippines",
+                "city_ja": "マニラ",
+                "country_ja": "フィリピン"
+            },
+            {
+                "timezone": "Asia/Muscat",
+                "city": "Muscat",
+                "country": "Oman",
+                "city_ja": "マスカット",
+                "country_ja": "オマーン"
+            },
+            {
+                "timezone": "Asia/Nicosia",
+                "city": "Nicosia",
+                "country": "Cyprus",
+                "city_ja": "ニコシア",
+                "country_ja": "キプロス"
+            },
+            {
+                "timezone": "Asia/Novokuznetsk",
+                "city": "Novokuznetsk",
+                "country": "Russia",
+                "city_ja": "ノボクズネツク",
+                "country_ja": "ロシア"
+            },
+            {
+                "timezone": "Asia/Novosibirsk",
+                "city": "Novosibirsk",
+                "country": "Russia",
+                "city_ja": "ノボシビルスク",
+                "country_ja": "ロシア"
+            },
+            {
+                "timezone": "Asia/Omsk",
+                "city": "Omsk",
+                "country": "Russia",
+                "city_ja": "オムスク",
+                "country_ja": "ロシア"
+            },
+            {
+                "timezone": "Asia/Oral",
+                "city": "Oral",
+                "country": "Kazakhstan",
+                "city_ja": "オラル",
+                "country_ja": "カザフスタン"
+            },
+            {
+                "timezone": "Asia/Phnom_Penh",
+                "city": "Phnom Penh",
+                "country": "Cambodia",
+                "city_ja": "プノンペン",
+                "country_ja": "カンボジア"
+            },
+            {
+                "timezone": "Asia/Pontianak",
+                "city": "Pontianak",
+                "country": "Indonesia",
+                "city_ja": "ポンティアナク",
+                "country_ja": "インドネシア"
+            },
+            {
+                "timezone": "Asia/Pyongyang",
+                "city": "Pyongyang",
+                "country": "Democratic People's Republic of Korea",
+                "city_ja": "平壌",
+                "country_ja": "朝鮮民主主義人民共和国"
+            },
+            {
+                "timezone": "Asia/Qatar",
+                "city": "Doha",
+                "country": "Qatar",
+                "city_ja": "ドーハ",
+                "country_ja": "カタール"
+            },
+            {
+                "timezone": "Asia/Qyzylorda",
+                "city": "Kyzylorda",
+                "country": "Kazakhstan",
+                "city_ja": "クズロルダ",
+                "country_ja": "カザフスタン"
+            },
+            {
+                "timezone": "Asia/Rangoon",
+                "city": "Rangoon",
+                "country": "Burma",
+                "city_ja": "ラングーン",
+                "country_ja": "ミャンマー"
+            },
+            {
+                "timezone": "Asia/Riyadh",
+                "city": "Riyadh",
+                "country": "Saudi Arabia",
+                "city_ja": "リヤド",
+                "country_ja": "サウジアラビア"
+            },
+            {
+                "timezone": "Asia/Sakhalin",
+                "city": "Yuzhno-Sakhalinsk",
+                "country": "Russia",
+                "city_ja": "ユジノサハリンスク",
+                "country_ja": "ロシア"
+            },
+            {
+                "timezone": "Asia/Samarkand",
+                "city": "Samarkand",
+                "country": "Uzbekistan",
+                "city_ja": "サマルカンド",
+                "country_ja": "ウズベキスタン"
+            },
+            {
+                "timezone": "Asia/Seoul",
+                "city": "Seoul",
+                "country": "South Korea",
+                "city_ja": "ソウル",
+                "country_ja": "韓国"
+            },
+            {
+                "timezone": "Asia/Shanghai",
+                "city": "Shanghai",
+                "country": "China",
+                "city_ja": "上海",
+                "country_ja": "中国"
+            },
+            {
+                "timezone": "Asia/Singapore",
+                "city": "Singapore",
+                "country": "Singapore",
+                "city_ja": "シンガポール",
+                "country_ja": "シンガポール"
+            },
+            {
+                "timezone": "Asia/Srednekolymsk",
+                "city": "Srednekolymsk",
+                "country": "Russia",
+                "city_ja": "スレドネコリムスク",
+                "country_ja": "ロシア"
+            },
+            {
+                "timezone": "Asia/Taipei",
+                "city": "Taipei",
+                "country": "Taiwan",
+                "city_ja": "台北",
+                "country_ja": "台湾"
+            },
+            {
+                "timezone": "Asia/Tashkent",
+                "city": "Tashkent",
+                "country": "Uzbekistan",
+                "city_ja": "タシケント",
+                "country_ja": "ウズベキスタン"
+            },
+            {
+                "timezone": "Asia/Tbilisi",
+                "city": "Tbilisi",
+                "country": "Georgia",
+                "city_ja": "トビリシ",
+                "country_ja": "グルジア"
+            },
+            {
+                "timezone": "Asia/Tehran",
+                "city": "Tehran",
+                "country": "Iran",
+                "city_ja": "テヘラン",
+                "country_ja": "イラン"
+            },
+            {
+                "timezone": "Asia/Thimphu",
+                "city": "Thimphu",
+                "country": "Bhutan",
+                "city_ja": "ティンプー",
+                "country_ja": "ブータン"
+            },
+            {
+                "timezone": "Asia/Tokyo",
+                "city": "Tokyo",
+                "country": "Japan",
+                "city_ja": "東京",
+                "country_ja": "日本"
+            },
+            {
+                "timezone": "Asia/Tomsk",
+                "city": "Tomsk",
+                "country": "Russia",
+                "city_ja": "トムスク",
+                "country_ja": "ロシア"
+            },
+            {
+                "timezone": "Asia/Ulaanbaatar",
+                "city": "Ulaanbaatar",
+                "country": "Mongolia",
+                "city_ja": "ウランバートル",
+                "country_ja": "モンゴル"
+            },
+            {
+                "timezone": "Asia/Urumqi",
+                "city": "Urumqi",
+                "country": "China",
+                "city_ja": "ウルムチ",
+                "country_ja": "中国"
+            },
+            {
+                "timezone": "Asia/Ust-Nera",
+                "city": "Ust-Nera",
+                "country": "Russia",
+                "city_ja": "ウスチ＝ネラ ",
+                "country_ja": "ロシア"
+            },
+            {
+                "timezone": "Asia/Vientiane",
+                "city": "Vientiane",
+                "country": "Laos",
+                "city_ja": "ヴィエンチャン",
+                "country_ja": "ラオス"
+            },
+            {
+                "timezone": "Asia/Vladivostok",
+                "city": "Vladivostok",
+                "country": "Russia",
+                "city_ja": "ウラジオストク",
+                "country_ja": "ロシア"
+            },
+            {
+                "timezone": "Asia/Yakutsk",
+                "city": "Yakutsk",
+                "country": "Russia",
+                "city_ja": "ヤクーツク",
+                "country_ja": "ロシア"
+            },
+            {
+                "timezone": "Asia/Yangon",
+                "city": "Yangon",
+                "country": "Myanmar",
+                "city_ja": "ヤンゴン",
+                "country_ja": "ミャンマー"
+            },
+            {
+                "timezone": "Asia/Yekaterinburg",
+                "city": "Yekaterinburg",
+                "country": "Russia",
+                "city_ja": "エカテリンブルク",
+                "country_ja": "ロシア"
+            },
+            {
+                "timezone": "Asia/Yerevan",
+                "city": "Yerevan",
+                "country": "Armenia",
+                "city_ja": "エレバン",
+                "country_ja": "アルメニア"
+            }
+        ]
+    },
+    {
+        "english": "Atlantic",
+        "cities": [
+            {
+                "timezone": "Atlantic/Azores",
+                "city": "Ponta Delgada",
+                "country": "Azores",
+                "city_ja": "ポンタ・デルガダ",
+                "country_ja": "アゾレス自治地域"
+            },
+            {
+                "timezone": "Atlantic/Bermuda",
+                "city": "Hamilton",
+                "country": "Bermuda",
+                "city_ja": "ハミルトン",
+                "country_ja": "バーミューダ"
+            },
+            {
+                "timezone": "Atlantic/Canary",
+                "city": "Las Palmas de Gran Canaria",
+                "country": "Spain",
+                "city_ja": "ラス・パルマス・デ・グラン・カナリア",
+                "country_ja": "スペイン"
+            },
+            {
+                "timezone": "Atlantic/Cape_Verde",
+                "city": "Praia",
+                "country": "Cape Verde",
+                "city_ja": "プライア",
+                "country_ja": "カーボベルデ"
+            },
+            {
+                "timezone": "Atlantic/Faroe",
+                "city": "Tórshavn",
+                "country": "Faroe Islands",
+                "city_ja": "トースハウン",
+                "country_ja": "フェロー諸島"
+            },
+            {
+                "timezone": "Atlantic/Madeira",
+                "city": "Funchal",
+                "country": "Maderia",
+                "city_ja": "フンシャル",
+                "country_ja": "マデイラ自治地域"
+            },
+            {
+                "timezone": "Atlantic/Reykjavik",
+                "city": "Reykjavik",
+                "country": "Iceland",
+                "city_ja": "レイキャビク",
+                "country_ja": "アイスランド"
+            },
+            {
+                "timezone": "Atlantic/South_Georgia",
+                "city": "King Edward Point",
+                "country": "South Georgia and the South Sandwich Islands",
+                "city_ja": "キング・エドワード・ポイント",
+                "country_ja": "サウスジョージア・サウスサンドウィッチ諸島"
+            },
+            {
+                "timezone": "Atlantic/St_Helena",
+                "city": "Jamestown",
+                "country": "Saint Helena, Ascension and Tristan da Cunha",
+                "city_ja": "ジェームズタウン",
+                "country_ja": "セントヘレナ・アセンションおよびトリスタンダクーニャ"
+            },
+            {
+                "timezone": "Atlantic/Stanley",
+                "city": "Stanley",
+                "country": "Falkland Islands",
+                "city_ja": "スタンリー",
+                "country_ja": "フォークランド諸島"
+            }
+        ]
+    },
+    {
+        "english": "Australia",
+        "cities": [
+            {
+                "timezone": "Australia/Adelaide",
+                "city": "Adelaide",
+                "country": "Australia",
+                "city_ja": "アデレード",
+                "country_ja": "オーストラリア"
+            },
+            {
+                "timezone": "Australia/Brisbane",
+                "city": "Brisbane",
+                "country": "Australia",
+                "city_ja": "ブリスベン",
+                "country_ja": "オーストラリア"
+            },
+            {
+                "timezone": "Australia/Broken_Hill",
+                "city": "Broken Hill",
+                "country": "Australia",
+                "city_ja": "ブロークンヒル",
+                "country_ja": "オーストラリア"
+            },
+            {
+                "timezone": "Australia/Currie",
+                "city": "Currie",
+                "country": "Australia",
+                "city_ja": "カリー",
+                "country_ja": "オーストラリア"
+            },
+            {
+                "timezone": "Australia/Darwin",
+                "city": "Darwin",
+                "country": "Australia",
+                "city_ja": "ダーウィン",
+                "country_ja": "オーストラリア"
+            },
+            {
+                "timezone": "Australia/Eucla",
+                "city": "Eucla",
+                "country": "Australia",
+                "city_ja": "ユークラ",
+                "country_ja": "オーストラリア"
+            },
+            {
+                "timezone": "Australia/Hobart",
+                "city": "Hobart",
+                "country": "Australia",
+                "city_ja": "ホウバート",
+                "country_ja": "オーストラリア"
+            },
+            {
+                "timezone": "Australia/Lindeman",
+                "city": "Lindeman Island",
+                "country": "Australia",
+                "city_ja": "リンデマン島",
+                "country_ja": "オーストラリア"
+            },
+            {
+                "timezone": "Australia/Lord_Howe",
+                "city": "Lord Howe Island",
+                "country": "Australia",
+                "city_ja": "ロードハウ島",
+                "country_ja": "オーストラリア"
+            },
+            {
+                "timezone": "Australia/Melbourne",
+                "city": "Melbourne",
+                "country": "Australia",
+                "city_ja": "メルボルン",
+                "country_ja": "オーストラリア"
+            },
+            {
+                "timezone": "Australia/Perth",
+                "city": "Perth",
+                "country": "Australia",
+                "city_ja": "パース",
+                "country_ja": "オーストラリア"
+            },
+            {
+                "timezone": "Australia/Sydney",
+                "city": "Sydney",
+                "country": "Australia",
+                "city_ja": "シドニー",
+                "country_ja": "オーストラリア"
+            }
+        ]
+    },
+    {
+        "english": "Europe",
+        "cities": [
+            {
+                "timezone": "Europe/Amsterdam",
+                "city": "Amsterdam",
+                "country": "Netherlands",
+                "city_ja": "アムステルダム",
+                "country_ja": "オランダ"
+            },
+            {
+                "timezone": "Europe/Andorra",
+                "city": "Andorra la Vella",
+                "country": "Andorra",
+                "city_ja": "アンドラ・ラ・ベリャ",
+                "country_ja": "アンドラ"
+            },
+            {
+                "timezone": "Europe/Astrakhan",
+                "city": "Astrakhan",
+                "country": "Russia",
+                "city_ja": "アストラハン",
+                "country_ja": "ロシア"
+            },
+            {
+                "timezone": "Europe/Athens",
+                "city": "Athens",
+                "country": "Greece",
+                "city_ja": "アテネ",
+                "country_ja": "ギリシャ"
+            },
+            {
+                "timezone": "Europe/Belgrade",
+                "city": "Belgrade",
+                "country": "Serbia",
+                "city_ja": "ベオグラード",
+                "country_ja": "セルビア"
+            },
+            {
+                "timezone": "Europe/Berlin",
+                "city": "Berlin",
+                "country": "Germany",
+                "city_ja": "ベルリン",
+                "country_ja": "ドイツ"
+            },
+            {
+                "timezone": "Europe/Bratislava",
+                "city": "Bratislava",
+                "country": "Slovakia",
+                "city_ja": "ブラチスラヴァ",
+                "country_ja": "スロバキア"
+            },
+            {
+                "timezone": "Europe/Brussels",
+                "city": "Brussels",
+                "country": "Belgium",
+                "city_ja": "ブリュッセル",
+                "country_ja": "ベルギー"
+            },
+            {
+                "timezone": "Europe/Bucharest",
+                "city": "Bucharest",
+                "country": "Romania",
+                "city_ja": "ブカレスト",
+                "country_ja": "ルーマニア"
+            },
+            {
+                "timezone": "Europe/Budapest",
+                "city": "Budapest",
+                "country": "Hungary",
+                "city_ja": "ブダペスト",
+                "country_ja": "ハンガリー"
+            },
+            {
+                "timezone": "Europe/Busingen",
+                "city": "Büsingen",
+                "country": "Germany",
+                "city_ja": "ビュージンゲン ",
+                "country_ja": "ドイツ"
+            },
+            {
+                "timezone": "Europe/Chisinau",
+                "city": "Chisinau",
+                "country": "Moldova",
+                "city_ja": "チシナウ",
+                "country_ja": "モルドバ"
+            },
+            {
+                "timezone": "Europe/Copenhagen",
+                "city": "Copenhagen",
+                "country": "Denmark",
+                "city_ja": "コペンハーゲン",
+                "country_ja": "デンマーク"
+            },
+            {
+                "timezone": "Europe/Dublin",
+                "city": "Dublin",
+                "country": "Ireland",
+                "city_ja": "ダブリン",
+                "country_ja": "アイルランド"
+            },
+            {
+                "timezone": "Europe/Gibraltar",
+                "city": "Gibraltar",
+                "country": "Gibraltar",
+                "city_ja": "ジブラルタル",
+                "country_ja": "ジブラルタル"
+            },
+            {
+                "timezone": "Europe/Guernsey",
+                "city": "St. Peter Port",
+                "country": "Bailiwick of Guernsey",
+                "city_ja": "セント・ピーター・ポート",
+                "country_ja": "ガーンジー代官管轄区"
+            },
+            {
+                "timezone": "Europe/Helsinki",
+                "city": "Helsinki",
+                "country": "Finland",
+                "city_ja": "ヘルシンキ",
+                "country_ja": "フィンランド"
+            },
+            {
+                "timezone": "Europe/Isle_of_Man",
+                "city": "Douglas",
+                "country": "Isle of Man",
+                "city_ja": "ダグラス",
+                "country_ja": "マン島"
+            },
+            {
+                "timezone": "Europe/Istanbul",
+                "city": "Istanbul",
+                "country": "Turkey",
+                "city_ja": "イスタンブール",
+                "country_ja": "トルコ"
+            },
+            {
+                "timezone": "Europe/Jersey",
+                "city": "St. Helier",
+                "country": "Bailiwick of Jersey",
+                "city_ja": "セント・ヘリア",
+                "country_ja": "ジャージー代官管轄区"
+            },
+            {
+                "timezone": "Europe/Kaliningrad",
+                "city": "Kaliningrad",
+                "country": "Russia",
+                "city_ja": "カリーニングラード",
+                "country_ja": "ロシア"
+            },
+            {
+                "timezone": "Europe/Kiev",
+                "city": "Kiev",
+                "country": "Ukraine",
+                "city_ja": "キエフ",
+                "country_ja": "ウクライナ"
+            },
+            {
+                "timezone": "Europe/Kirov",
+                "city": "Kirov",
+                "country": "Russia",
+                "city_ja": "キーロフ",
+                "country_ja": "ロシア"
+            },
+            {
+                "timezone": "Europe/Lisbon",
+                "city": "Lisbon",
+                "country": "Portugal",
+                "city_ja": "リスボン",
+                "country_ja": "ポルトガル"
+            },
+            {
+                "timezone": "Europe/Ljubljana",
+                "city": "Ljubljana",
+                "country": "Slovenia",
+                "city_ja": "リュブリャナ",
+                "country_ja": "スロベニア"
+            },
+            {
+                "timezone": "Europe/London",
+                "city": "London",
+                "country": "U.K.",
+                "city_ja": "ロンドン",
+                "country_ja": "英国"
+            },
+            {
+                "timezone": "Europe/Luxembourg",
+                "city": "Luxembourg",
+                "country": "Luxembourg",
+                "city_ja": "ルクセンブルグ",
+                "country_ja": "ルクセンブルグ"
+            },
+            {
+                "timezone": "Europe/Madrid",
+                "city": "Madrid",
+                "country": "Spain",
+                "city_ja": "マドリード",
+                "country_ja": "スペイン"
+            },
+            {
+                "timezone": "Europe/Malta",
+                "city": "Valletta",
+                "country": "Malta",
+                "city_ja": "バレッタ",
+                "country_ja": "マルタ"
+            },
+            {
+                "timezone": "Europe/Mariehamn",
+                "city": "Mariehamn",
+                "country": "Åland Islands",
+                "city_ja": "マリエハム",
+                "country_ja": "オーランド諸島"
+            },
+            {
+                "timezone": "Europe/Minsk",
+                "city": "Minsk",
+                "country": "Belarus",
+                "city_ja": "ミンスク",
+                "country_ja": "ベラルーシ"
+            },
+            {
+                "timezone": "Europe/Monaco",
+                "city": "Monaco",
+                "country": "Monaco",
+                "city_ja": "モナコ",
+                "country_ja": "モナコ"
+            },
+            {
+                "timezone": "Europe/Moscow",
+                "city": "Moscow",
+                "country": "Russia",
+                "city_ja": "モスクワ",
+                "country_ja": "ロシア"
+            },
+            {
+                "timezone": "Europe/Oslo",
+                "city": "Oslo",
+                "country": "Norway",
+                "city_ja": "オスロ",
+                "country_ja": "ノルウェー"
+            },
+            {
+                "timezone": "Europe/Paris",
+                "city": "Paris",
+                "country": "France",
+                "city_ja": "パリ",
+                "country_ja": "フランス"
+            },
+            {
+                "timezone": "Europe/Podgorica",
+                "city": "Podgorica",
+                "country": "Montenegro",
+                "city_ja": "ポドゴリツァ",
+                "country_ja": "モンテネグロ"
+            },
+            {
+                "timezone": "Europe/Prague",
+                "city": "Prague",
+                "country": "Czech Republic",
+                "city_ja": "プラハ",
+                "country_ja": "チェコ共和国"
+            },
+            {
+                "timezone": "Europe/Riga",
+                "city": "Riga",
+                "country": "Latvia",
+                "city_ja": "リガ",
+                "country_ja": "ラトビア"
+            },
+            {
+                "timezone": "Europe/Rome",
+                "city": "Rome",
+                "country": "Italy",
+                "city_ja": "ローマ",
+                "country_ja": "イタリア"
+            },
+            {
+                "timezone": "Europe/Samara",
+                "city": "Samara",
+                "country": "Russia",
+                "city_ja": "サマラ",
+                "country_ja": "ロシア"
+            },
+            {
+                "timezone": "Europe/San_Marino",
+                "city": "San Marino",
+                "country": "San Marino",
+                "city_ja": "サンマリノ",
+                "country_ja": "サンマリノ"
+            },
+            {
+                "timezone": "Europe/Sarajevo",
+                "city": "Sarajevo",
+                "country": "Bosnia and Herzegovina",
+                "city_ja": "サラエヴォ",
+                "country_ja": "ボスニア・ヘルツェゴビナ"
+            },
+            {
+                "timezone": "Europe/Saratov",
+                "city": "Saratov",
+                "country": "Russia",
+                "city_ja": "サラトフ",
+                "country_ja": "ロシア"
+            },
+            {
+                "timezone": "Europe/Simferopol",
+                "city": "Simferopol",
+                "country": "Russia",
+                "city_ja": "シンフェロポリ",
+                "country_ja": "ロシア"
+            },
+            {
+                "timezone": "Europe/Skopje",
+                "city": "Skopje",
+                "country": "Macedonia",
+                "city_ja": "スコピエ",
+                "country_ja": "マケドニア"
+            },
+            {
+                "timezone": "Europe/Sofia",
+                "city": "Sofia",
+                "country": "Bulgaria",
+                "city_ja": "ソフィア",
+                "country_ja": "ブルガリア"
+            },
+            {
+                "timezone": "Europe/Stockholm",
+                "city": "Stockholm",
+                "country": "Swen",
+                "city_ja": "ストックホルム",
+                "country_ja": "スウェーデン"
+            },
+            {
+                "timezone": "Europe/Tallinn",
+                "city": "Tallinn",
+                "country": "Estonia",
+                "city_ja": "タリン",
+                "country_ja": "エストニア"
+            },
+            {
+                "timezone": "Europe/Tirane",
+                "city": "Tirana",
+                "country": "Albania",
+                "city_ja": "ティラナ",
+                "country_ja": "アルバニア"
+            },
+            {
+                "timezone": "Europe/Ulyanovsk",
+                "city": "Ulyanovsk",
+                "country": "Russia",
+                "city_ja": "ウリヤノフスク",
+                "country_ja": "ロシア"
+            },
+            {
+                "timezone": "Europe/Uzhgorod",
+                "city": "Uzhhorod",
+                "country": "Ukraine",
+                "city_ja": "ウージュホロド",
+                "country_ja": "ウクライナ"
+            },
+            {
+                "timezone": "Europe/Vaduz",
+                "city": "Vaduz",
+                "country": "Liechtenstein",
+                "city_ja": "ファドゥーツ",
+                "country_ja": "リヒテンシュタイン"
+            },
+            {
+                "timezone": "Europe/Vatican",
+                "city": "Vatican City",
+                "country": "Vatican City State",
+                "city_ja": "バチカン",
+                "country_ja": "バチカン市国"
+            },
+            {
+                "timezone": "Europe/Vienna",
+                "city": "Vienna",
+                "country": "Austria",
+                "city_ja": "ウィーン",
+                "country_ja": "オーストリア"
+            },
+            {
+                "timezone": "Europe/Vilnius",
+                "city": "Vilnius",
+                "country": "Lithuania",
+                "city_ja": "ビリニュス",
+                "country_ja": "リトアニア"
+            },
+            {
+                "timezone": "Europe/Volgograd",
+                "city": "Volgograd",
+                "country": "Russia",
+                "city_ja": "ボルゴグラード",
+                "country_ja": "ロシア"
+            },
+            {
+                "timezone": "Europe/Warsaw",
+                "city": "Warsaw",
+                "country": "Poland",
+                "city_ja": "ワルシャワ",
+                "country_ja": "ポーランド"
+            },
+            {
+                "timezone": "Europe/Zagreb",
+                "city": "Zagreb",
+                "country": "Croatia",
+                "city_ja": "ザグレブ",
+                "country_ja": "クロアチア"
+            },
+            {
+                "timezone": "Europe/Zaporozhye",
+                "city": "Zaporizhia",
+                "country": "Ukraine",
+                "city_ja": "ザポリージャ ",
+                "country_ja": "ウクライナ"
+            },
+            {
+                "timezone": "Europe/Zurich",
+                "city": "Zurich",
+                "country": "Switzerland",
+                "city_ja": "チューリッヒ",
+                "country_ja": "スイス"
+            }
+        ]
+    },
+    {
+        "english": "Indian",
+        "cities": [
+            {
+                "timezone": "Indian/Antananarivo",
+                "city": "Antananarivo",
+                "country": "Madagascar",
+                "city_ja": "アンタナナリボ",
+                "country_ja": "マダガスカル"
+            },
+            {
+                "timezone": "Indian/Chagos",
+                "city": "Chagos Archipelago",
+                "country": "British Indian Ocean Territory",
+                "city_ja": "チャゴス諸島",
+                "country_ja": "イギリス領インド洋地域"
+            },
+            {
+                "timezone": "Indian/Christmas",
+                "city": "Christmas Island",
+                "country": "Australia",
+                "city_ja": "クリスマス島",
+                "country_ja": "オーストラリア"
+            },
+            {
+                "timezone": "Indian/Cocos",
+                "city": "Cocos (Keeling) Islands",
+                "country": "Australia",
+                "city_ja": "ココス（キーリング）諸島",
+                "country_ja": "オーストラリア"
+            },
+            {
+                "timezone": "Indian/Comoro",
+                "city": "Moroni",
+                "country": "Comoros",
+                "city_ja": "モロニ",
+                "country_ja": "コモロ"
+            },
+            {
+                "timezone": "Indian/Kerguelen",
+                "city": "Port-aux-Français",
+                "country": "French Southern & Antarctic Lands",
+                "city_ja": "ポルトーフランセ",
+                "country_ja": "フランス領極南諸島"
+            },
+            {
+                "timezone": "Indian/Mahe",
+                "city": "Victoria",
+                "country": "Seychelles",
+                "city_ja": "ビクトリア",
+                "country_ja": "セーシェル"
+            },
+            {
+                "timezone": "Indian/Maldives",
+                "city": "Malé",
+                "country": "Maldives",
+                "city_ja": "マレ",
+                "country_ja": "モルディブ"
+            },
+            {
+                "timezone": "Indian/Mauritius",
+                "city": "Port Louis",
+                "country": "Mauritius",
+                "city_ja": "ポートルイス",
+                "country_ja": "モーリシャス"
+            },
+            {
+                "timezone": "Indian/Mayotte",
+                "city": "Mamoudzou",
+                "country": "Mayotte",
+                "city_ja": "マムズ",
+                "country_ja": "マヨット"
+            },
+            {
+                "timezone": "Indian/Reunion",
+                "city": "Saint-Denis",
+                "country": "Réunion",
+                "city_ja": "サンドニ",
+                "country_ja": "レユニオン"
+            }
+        ]
+    },
+    {
+        "english": "Pacific",
+        "cities": [
+            {
+                "timezone": "Pacific/Apia",
+                "city": "Apia",
+                "country": "Samoa",
+                "city_ja": "アピア",
+                "country_ja": "サモア"
+            },
+            {
+                "timezone": "Pacific/Auckland",
+                "city": "Auckland",
+                "country": "New Zealand",
+                "city_ja": "オークランド",
+                "country_ja": "ニュージーランド"
+            },
+            {
+                "timezone": "Pacific/Bougainville",
+                "city": "Autonomous Region of Bougainville ",
+                "country": "Papua New Guinea",
+                "city_ja": "ブーゲンビル自治州",
+                "country_ja": "パプアニューギニア"
+            },
+            {
+                "timezone": "Pacific/Chatham",
+                "city": "Chatham Island",
+                "country": "New Zealand",
+                "city_ja": "チャタム島",
+                "country_ja": "ニュージーランド"
+            },
+            {
+                "timezone": "Pacific/Chuuk",
+                "city": "Chuuk",
+                "country": "Micronesia",
+                "city_ja": "チューク",
+                "country_ja": "ミクロネシア"
+            },
+            {
+                "timezone": "Pacific/Easter",
+                "city": "Easter Island",
+                "country": "Chile",
+                "city_ja": "イースター島",
+                "country_ja": "チリ"
+            },
+            {
+                "timezone": "Pacific/Efate",
+                "city": "Efate",
+                "country": "Vanuatu",
+                "city_ja": "エファテ",
+                "country_ja": "バヌアツ"
+            },
+            {
+                "timezone": "Pacific/Enderbury",
+                "city": "Enderbury Island",
+                "country": "Kiribati",
+                "city_ja": "エンダーベリー島",
+                "country_ja": "キリバス"
+            },
+            {
+                "timezone": "Pacific/Fakaofo",
+                "city": "Fakaofo",
+                "country": "Tokelau",
+                "city_ja": "ファカオフォ島",
+                "country_ja": "トケラウ"
+            },
+            {
+                "timezone": "Pacific/Fiji",
+                "city": "Suva",
+                "country": "Fiji",
+                "city_ja": "スバ",
+                "country_ja": "フィジー"
+            },
+            {
+                "timezone": "Pacific/Funafuti",
+                "city": "Funafuti",
+                "country": "Tuvalu",
+                "city_ja": "フナフティ島",
+                "country_ja": "ツバル"
+            },
+            {
+                "timezone": "Pacific/Galapagos",
+                "city": "Puerto Baquerizo Moreno",
+                "country": "Ecuador",
+                "city_ja": "プエルト・バケリソ・モレノ ",
+                "country_ja": "エクアドル"
+            },
+            {
+                "timezone": "Pacific/Gambier",
+                "city": "Rikitea",
+                "country": "French Polynesia",
+                "city_ja": "リキテア",
+                "country_ja": "フランス領ポリネシア"
+            },
+            {
+                "timezone": "Pacific/Guadalcanal",
+                "city": "Honiara",
+                "country": "Solomon Islands",
+                "city_ja": "ホニアラ",
+                "country_ja": "ソロモン諸島"
+            },
+            {
+                "timezone": "Pacific/Guam",
+                "city": "Guam",
+                "country": "Guam",
+                "city_ja": "グアム",
+                "country_ja": "グアム"
+            },
+            {
+                "timezone": "Pacific/Honolulu",
+                "city": "Honolulu",
+                "country": "U.S.A.",
+                "city_ja": "ホノルル",
+                "country_ja": "米国"
+            },
+            {
+                "timezone": "Pacific/Johnston",
+                "city": "Johnston",
+                "country": "United States Minor Outlying Islands",
+                "city_ja": "ジョンストン島 ",
+                "country_ja": "合衆国領有小離島"
+            },
+            {
+                "timezone": "Pacific/Kiritimati",
+                "city": "Kiritimati",
+                "country": "Kiribati",
+                "city_ja": "クリスマス",
+                "country_ja": "キリバス"
+            },
+            {
+                "timezone": "Pacific/Kosrae",
+                "city": "Kosrae",
+                "country": "Micronesia",
+                "city_ja": "コスラエ",
+                "country_ja": "ミクロネシア"
+            },
+            {
+                "timezone": "Pacific/Kwajalein",
+                "city": "Kwajalein Atoll",
+                "country": "Marshall Islands",
+                "city_ja": "クワジェリン環礁",
+                "country_ja": "マーシャル諸島"
+            },
+            {
+                "timezone": "Pacific/Majuro",
+                "city": "Majuro",
+                "country": "Marshall Islands",
+                "city_ja": "マジュロ",
+                "country_ja": "マーシャル諸島"
+            },
+            {
+                "timezone": "Pacific/Marquesas",
+                "city": "Tai o Hae",
+                "country": "French Polynesia",
+                "city_ja": "タイオハエ",
+                "country_ja": "フランス領ポリネシア"
+            },
+            {
+                "timezone": "Pacific/Midway",
+                "city": "Midway",
+                "country": "United States Minor Outlying Islands",
+                "city_ja": "ミッドウェー島",
+                "country_ja": "合衆国領有小離島"
+            },
+            {
+                "timezone": "Pacific/Nauru",
+                "city": "Nauru",
+                "country": "Micronesia",
+                "city_ja": "ナウル",
+                "country_ja": "ミクロネシア"
+            },
+            {
+                "timezone": "Pacific/Niue",
+                "city": "Alofi",
+                "country": "Niue",
+                "city_ja": "アロフィ",
+                "country_ja": "ニウエ"
+            },
+            {
+                "timezone": "Pacific/Norfolk",
+                "city": "Kingston",
+                "country": "Norfolk Island",
+                "city_ja": "キングストン",
+                "country_ja": "ノーフォーク島"
+            },
+            {
+                "timezone": "Pacific/Noumea",
+                "city": "Noumea",
+                "country": "New Calonia",
+                "city_ja": "ヌーメア",
+                "country_ja": "ニューカレドニア"
+            },
+            {
+                "timezone": "Pacific/Pago_Pago",
+                "city": "Pago Pago",
+                "country": "American Samoa",
+                "city_ja": "パゴパゴ",
+                "country_ja": "米領サモア"
+            },
+            {
+                "timezone": "Pacific/Palau",
+                "city": "Melekeok",
+                "country": "Palau",
+                "city_ja": "マルキョク ",
+                "country_ja": "パラオ"
+            },
+            {
+                "timezone": "Pacific/Pitcairn",
+                "city": "Adamstown",
+                "country": "Pitcairn Islands",
+                "city_ja": "アダムスタウン",
+                "country_ja": "ピトケアン諸島"
+            },
+            {
+                "timezone": "Pacific/Pohnpei",
+                "city": "Pohnpei",
+                "country": "Micronesia",
+                "city_ja": "ポンペイ島",
+                "country_ja": "ミクロネシア"
+            },
+            {
+                "timezone": "Pacific/Ponape",
+                "city": "Ponape",
+                "country": "Micronesia",
+                "city_ja": "ポナペ島",
+                "country_ja": "ミクロネシア"
+            },
+            {
+                "timezone": "Pacific/Port_Moresby",
+                "city": "Port Moresby",
+                "country": "Papua New Guinea",
+                "city_ja": "ポートモレスビー",
+                "country_ja": "パプアニューギニア"
+            },
+            {
+                "timezone": "Pacific/Rarotonga",
+                "city": "Rarotonga",
+                "country": "Cook Islands",
+                "city_ja": "ラロトンガ",
+                "country_ja": "クック諸島"
+            },
+            {
+                "timezone": "Pacific/Saipan",
+                "city": "Saipan",
+                "country": "Northern Mariana Islands",
+                "city_ja": "サイパン",
+                "country_ja": "北マリアナ諸島"
+            },
+            {
+                "timezone": "Pacific/Tahiti",
+                "city": "Tahiti",
+                "country": "French Polynesia",
+                "city_ja": "タヒチ",
+                "country_ja": "フランス領ポリネシア"
+            },
+            {
+                "timezone": "Pacific/Tarawa",
+                "city": "Tarawa",
+                "country": "Kiribati",
+                "city_ja": "タラワ",
+                "country_ja": "キリバス"
+            },
+            {
+                "timezone": "Pacific/Tongatapu",
+                "city": "Nuku'alofa",
+                "country": "Tonga",
+                "city_ja": "ヌクアロファ",
+                "country_ja": "トンガ"
+            },
+            {
+                "timezone": "Pacific/Truk",
+                "city": "Truk",
+                "country": "Micronesia",
+                "city_ja": "チューク",
+                "country_ja": "ミクロネシア"
+            },
+            {
+                "timezone": "Pacific/Wake",
+                "city": "Wake",
+                "country": "United States Minor Outlying Islands",
+                "city_ja": "ウェーク島",
+                "country_ja": "合衆国領有小離島"
+            },
+            {
+                "timezone": "Pacific/Wallis",
+                "city": "Mata-Utu",
+                "country": "Wallis and Futuna",
+                "city_ja": "マタウトゥ",
+                "country_ja": "ウォリス・フトゥナ"
+            }
+        ]
+    }
+]
