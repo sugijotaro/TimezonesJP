@@ -1778,6 +1778,13 @@
                 "country_ja": "ベトナム"
             },
             {
+                "timezone": "Asia/Ho_Chi_Minh",
+                "city": "Hanoi",
+                "country": "Vietnam",
+                "city_ja": "ハノイ",
+                "country_ja": "ベトナム"
+            },
+            {
                 "timezone": "Asia/Hong_Kong",
                 "city": "Hong Kong",
                 "country": "Hong Kong",
