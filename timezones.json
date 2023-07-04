@@ -1102,6 +1102,27 @@
         "country_ja": "米国"
       },
       {
+        "timezone": "America/New_York",
+        "city": "Boston",
+        "country": "U.S.A.",
+        "city_ja": "ボストン",
+        "country_ja": "米国"
+      },
+      {
+        "timezone": "America/New_York",
+        "city": "Washington D.C.",
+        "country": "U.S.A.",
+        "city_ja": "ワシントンD.C.",
+        "country_ja": "米国"
+      },
+      {
+        "timezone": "America/New_York",
+        "city": "Miami",
+        "country": "U.S.A.",
+        "city_ja": "マイアミ",
+        "country_ja": "米国"
+      },
+      {
         "timezone": "America/Nipigon",
         "city": "Nipigon",
         "country": "Canada",
