@@ -2009,6 +2009,13 @@
                 "country_ja": "カンボジア"
             },
             {
+                "timezone": "Asia/Phnom_Penh",
+                "city": "Siem Reap",
+                "country": "Cambodia",
+                "city_ja": "シェムリアップ",
+                "country_ja": "カンボジア"
+            },
+            {
                 "timezone": "Asia/Pontianak",
                 "city": "Pontianak",
                 "country": "Indonesia",
