@@ -1,0 +1,458 @@
+region,region_ja,timezone,city,country,city_ja,country_ja
+Africa,アフリカ,Africa/Abidjan,Abidjan,Ivory Coast,アビジャン,コートジボワール
+Africa,アフリカ,Africa/Accra,Accra,Ghana,アクラ,ガーナ
+Africa,アフリカ,Africa/Addis_Ababa,Addis Ababa,Ethiopia,アジスアベバ,エチオピア
+Africa,アフリカ,Africa/Algiers,Algiers,Algeria,アルジェ,アルジェリア
+Africa,アフリカ,Africa/Asmara,Asmara,Eritrea,アスマラ,エリトリア
+Africa,アフリカ,Africa/Bamako,Bamako,Mali,バマコ,マリ
+Africa,アフリカ,Africa/Bangui,Bangui,Central African Republic,バンギ,中央アフリカ共和国
+Africa,アフリカ,Africa/Banjul,Banjul,Gambia,バンジュール,ガンビア
+Africa,アフリカ,Africa/Bissau,Bissau,Guinea-Bissau,ビサウ,ギニアビサウ
+Africa,アフリカ,Africa/Blantyre,Blantyre,Malawi,ブランタイア,マラウィ
+Africa,アフリカ,Africa/Brazzaville,Brazzaville,Congo,ブラザビル,コンゴ
+Africa,アフリカ,Africa/Bujumbura,Bujumbura,Burundi,ブジュンブラ,ブルンジ
+Africa,アフリカ,Africa/Cairo,Cairo,Egypt,カイロ,エジプト
+Africa,アフリカ,Africa/Casablanca,Casablanca,Morocco,カサブランカ,モロッコ
+Africa,アフリカ,Africa/Ceuta,Ceuta,Spain,セウタ,スペイン
+Africa,アフリカ,Africa/Conakry,Conakry,Guinea,コナクリ,ギニア
+Africa,アフリカ,Africa/Dakar,Dakar,Senegal,ダカール,セネガル
+Africa,アフリカ,Africa/Dar_es_Salaam,Dar es Salaam,Tanzania,ダルエスサラーム,タンザニア
+Africa,アフリカ,Africa/Djibouti,Djibouti,Djibouti,ジブチ,ジブチ
+Africa,アフリカ,Africa/Douala,Douala,Cameroon,ドゥアラ,カメルーン
+Africa,アフリカ,Africa/El_Aaiun,Laayoune,Western Sahara,アイウン,西サハラ
+Africa,アフリカ,Africa/Freetown,Freetown,Sierra Leone,フリータウン,シエラレオネ
+Africa,アフリカ,Africa/Gaborone,Gaborone,Botswana,ハボローネ,ボツワナ
+Africa,アフリカ,Africa/Harare,Harare,Zimbabwe,ハラレ,ジンバブエ
+Africa,アフリカ,Africa/Johannesburg,Johannesburg,South Africa,ヨハネスブルグ,南アフリカ
+Africa,アフリカ,Africa/Juba,Juba,South Sudan,ジュバ,南スーダン
+Africa,アフリカ,Africa/Kampala,Kampala,Uganda,カンパラ,ウガンダ
+Africa,アフリカ,Africa/Khartoum,Khartoum,Sudan,ハルツーム,スーダン
+Africa,アフリカ,Africa/Kigali,Kigali,Rwanda,キガリ,ルワンダ
+Africa,アフリカ,Africa/Kinshasa,Kinshasa,Democratic Republic of the Congo,キンシャサ,コンゴ民主共和国
+Africa,アフリカ,Africa/Lagos,Lagos,Nigeria,ラゴス,ナイジェリア
+Africa,アフリカ,Africa/Libreville,Libreville,Gabon,リーブルビル,ガボン
+Africa,アフリカ,Africa/Lome,Lomé,Togo,ロメ,トーゴ
+Africa,アフリカ,Africa/Luanda,Luanda,Angola,ルアンダ,アンゴラ
+Africa,アフリカ,Africa/Lubumbashi,Lubumbashi,Democratic Republic of the Congo,ルブンバシ,コンゴ民主共和国
+Africa,アフリカ,Africa/Lusaka,Lusaka,Zambia,ルサカ,ザンビア
+Africa,アフリカ,Africa/Malabo,Malabo,Equatorial Guinea,マラボ,赤道ギニア
+Africa,アフリカ,Africa/Maputo,Maputo,Mozambique,マプト,モザンビーク
+Africa,アフリカ,Africa/Maseru,Maseru,Lesotho,マセル,レソト
+Africa,アフリカ,Africa/Mbabane,Mbabane,Swaziland,ムババネ,スワジランド
+Africa,アフリカ,Africa/Mogadishu,Mogadishu,Somalia,モガディシュ,ソマリア
+Africa,アフリカ,Africa/Monrovia,Monrovia,Liberia,モンロビア,リベリア
+Africa,アフリカ,Africa/Nairobi,Nairobi,Kenya,ナイロビ,ケニア
+Africa,アフリカ,Africa/Ndjamena,Ndjamena,Chad,ヌジャメナ,チャド
+Africa,アフリカ,Africa/Niamey,Niamey,Niger,ニアメ,ニジェール
+Africa,アフリカ,Africa/Nouakchott,Nouakchott,Mauritania,ヌアクショット,モーリタニア
+Africa,アフリカ,Africa/Ouagadougou,Ouagadougou,Burkina Faso,ワガドゥグー,ブルキナファソ
+Africa,アフリカ,Africa/Porto-Novo,Porto-Novo,Benin,ポルトノボ,ベナン
+Africa,アフリカ,Africa/Sao_Tome,São Tomé,São Tomé and Príncipe,サントメ,サントメプリンシペ
+Africa,アフリカ,Africa/Tripoli,Tripoli,Libya,トリポリ,リビア
+Africa,アフリカ,Africa/Tunis,Tunis,Tunisia,チュニス,チュニジア
+Africa,アフリカ,Africa/Windhoek,Windhoek,Namibia,ウィントフック,ナミビア
+America,アメリカ,America/Adak,Adak,U.S.A.,エイダク,米国
+America,アメリカ,America/Anchorage,Anchorage,U.S.A.,アンカレッジ,米国
+America,アメリカ,America/Anguilla,The Valley,Anguilla,バレー,アンギラ
+America,アメリカ,America/Antigua,St. John's,Antigua and Barbuda,セントジョンズ,アンティグア・バーブーダ
+America,アメリカ,America/Araguaina,Araguaina,Brazil,アラグァイナ,ブラジル
+America,アメリカ,America/Argentina/Buenos_Aires,Buenos Aires,Argentina,ブエノスアイレス,アルゼンチン
+America,アメリカ,America/Argentina/Catamarca,Catamarca,Argentina,カタマルカ,アルゼンチン
+America,アメリカ,America/Argentina/Cordoba,Cordoba,Argentina,コルドバ,アルゼンチン
+America,アメリカ,America/Argentina/Jujuy,San Salvador de Jujuy,Argentina,サン・サルバドール・デ・フフイ,アルゼンチン
+America,アメリカ,America/Argentina/La_Rioja,La Rioja,Argentina,ラ・リオハ,アルゼンチン
+America,アメリカ,America/Argentina/Mendoza,Mendoza,Argentina,メンドーサ,アルゼンチン
+America,アメリカ,America/Argentina/Rio_Gallegos,Rio Gallegos,Argentina,リオガイェゴス,アルゼンチン
+America,アメリカ,America/Argentina/Salta,Salta,Argentina,サルタ,アルゼンチン
+America,アメリカ,America/Argentina/San_Juan,San Juan,Argentina,サンフアン,アルゼンチン
+America,アメリカ,America/Argentina/San_Luis,San Luis,Argentina,サンルイス,アルゼンチン
+America,アメリカ,America/Argentina/Tucuman,San Miguel de Tucumán,Argentina,サン・ミゲル・デ・トゥクマン,アルゼンチン
+America,アメリカ,America/Argentina/Ushuaia,Ushuaia,Argentina,ウシュアイア,アルゼンチン
+America,アメリカ,America/Aruba,Oranjestad,Aruba,オラニエスタッド,アルバ
+America,アメリカ,America/Asuncion,Asunción,Paraguay,アスンシオン,パラグアイ
+America,アメリカ,America/Atikokan,Atikokan,Canada,アティコカン,カナダ
+America,アメリカ,America/Bahia,Salvador,Brazil,サルバドル,ブラジル
+America,アメリカ,America/Bahia_Banderas,Bahía de Banderas,Mexico,バンデラス湾,メキシコ
+America,アメリカ,America/Barbados,Bridgetown,Barbados,ブリッジタウン,バルバドス
+America,アメリカ,America/Belem,Belem,Brazil,ベレム,ブラジル
+America,アメリカ,America/Belize,Belize City,Belize,ベリーズシティ,ベリーズ
+America,アメリカ,America/Blanc-Sablon,Blanc-Sablon,Canada,ブランサブロン,カナダ
+America,アメリカ,America/Boa_Vista,Boa Vista,Brazil,ボアビスタ,ブラジル
+America,アメリカ,America/Bogota,Bogotá,Colombia,ボゴタ,コロンビア
+America,アメリカ,America/Boise,Boise,U.S.A.,ボイシ,米国
+America,アメリカ,America/Cambridge_Bay,Cambridge Bay,Canada,ケンブリッジベイ,カナダ
+America,アメリカ,America/Campo_Grande,Campo Grande,Brazil,カンポグランデ,ブラジル
+America,アメリカ,America/Cancun,Cancun,Mexico,カンクン,メキシコ
+America,アメリカ,America/Caracas,Caracas,Venezuela,カラカス,ベネズエラ
+America,アメリカ,America/Cayenne,Cayenne,French Guiana,カイエンヌ,仏領ギアナ
+America,アメリカ,America/Cayman,George Town,Cayman Islands,ジョージタウン,ケイマン諸島
+America,アメリカ,America/Chicago,Chicago,U.S.A.,シカゴ,米国
+America,アメリカ,America/Chihuahua,Chihuahua,Mexico,チワワ,メキシコ
+America,アメリカ,America/Costa_Rica,San José,Costa Rica,サンホセ,コスタリカ
+America,アメリカ,America/Creston,Creston,Canada,クレストン,カナダ
+America,アメリカ,America/Cuiaba,Cuiaba,Brazil,クイアバ,ブラジル
+America,アメリカ,America/Curacao,Willemstad,Curacao,ウィレムスタット,キュラソー
+America,アメリカ,America/Danmarkshavn,Danmarkshavn,Greenland,デンマークシャウン,グリーンランド
+America,アメリカ,America/Dawson,Dawson City,Canada,ドーソンシティ,カナダ
+America,アメリカ,America/Dawson_Creek,Dawson Creek,Canada,ドーソンクリーク,カナダ
+America,アメリカ,America/Denver,Denver,U.S.A.,デンバー,米国
+America,アメリカ,America/Detroit,Detroit,U.S.A.,デトロイト,米国
+America,アメリカ,America/Dominica,Roseau,Dominica,ロゾー,ドミニカ
+America,アメリカ,America/Edmonton,Edmonton,Canada,エドモントン,カナダ
+America,アメリカ,America/Eirunepe,Eirunepe,Brazil,エイルネペ,ブラジル
+America,アメリカ,America/El_Salvador,San Salvador,El Salvador,サンサルバドル,エルサルバドル
+America,アメリカ,America/Fort_Nelson,Fort Nelson,Canada,フォート・ネルソン,カナダ
+America,アメリカ,America/Fortaleza,Fortaleza,Brazil,フォルタレザ,ブラジル
+America,アメリカ,America/Glace_Bay,Glace Bay,Canada,グレースベイ,カナダ
+America,アメリカ,America/Godthab,Nuuk,Greenland,ヌーク,グリーンランド
+America,アメリカ,America/Goose_Bay,Happy Valley-Goose Bay,Canada,ハッピーバレー・グースベイ,カナダ
+America,アメリカ,America/Grand_Turk,Cockburn Town,Turks and Caicos Islands,コックバーン・タウン,タークスおよびカイコス諸島
+America,アメリカ,America/Grenada,St. George’s,Grenada,セントジョージ,グレナダ
+America,アメリカ,America/Guadeloupe,Basse-Terre,Guadeloupe,バステール,グアドループ
+America,アメリカ,America/Guatemala,Guatemala City,Guatemala,グアテマラシティ,グアテマラ
+America,アメリカ,America/Guayaquil,Guayaquil,Ecuador,グアヤキル,エクアドル
+America,アメリカ,America/Guyana,Georgetown,Guyana,ジョージタウン,ガイアナ
+America,アメリカ,America/Halifax,Halifax,Canada,ハリファクス,カナダ
+America,アメリカ,America/Havana,Havana,Cuba,ハバナ,キューバ
+America,アメリカ,America/Hermosillo,Hermosillo,Mexico,エルモシヨ,メキシコ
+America,アメリカ,America/Indiana/Indianapolis,Indianapolis,U.S.A.,インディアナポリス,米国
+America,アメリカ,America/Indiana/Knox,Knox,U.S.A.,ノックス,米国
+America,アメリカ,America/Indiana/Marengo,Marengo,U.S.A.,マレンゴ,米国
+America,アメリカ,America/Indiana/Petersburg,Petersburg,U.S.A.,ピータースバーグ,米国
+America,アメリカ,America/Indiana/Tell_City,Tell City,U.S.A.,テルシティ,米国
+America,アメリカ,America/Indiana/Vevay,Vevay,U.S.A.,ビベイ,米国
+America,アメリカ,America/Indiana/Vincennes,Vincennes,U.S.A.,ビンセンス,米国
+America,アメリカ,America/Indiana/Winamac,Winamac,U.S.A.,ウィナマク,米国
+America,アメリカ,America/Inuvik,Inuvik,Canada,イヌヴィク,カナダ
+America,アメリカ,America/Iqaluit,Iqaluit,Canada,イカルイト,カナダ
+America,アメリカ,America/Jamaica,Kingston,Jamaica,キングストン,ジャマイカ
+America,アメリカ,America/Juneau,Juneau,U.S.A.,ジュノー,米国
+America,アメリカ,America/Kentucky/Louisville,Louisville,U.S.A.,ルイビル,米国
+America,アメリカ,America/Kentucky/Monticello,Monticello,U.S.A.,モンティチェロ,米国
+America,アメリカ,America/Kralendijk,Kralendijk,Bonaire,クラレンダイク,ボネール
+America,アメリカ,America/La_Paz,La Paz,Bolivia,ラ・パス,ボリビア
+America,アメリカ,America/Lima,Lima,Peru,リマ,ペルー
+America,アメリカ,America/Los_Angeles,Los Angeles,U.S.A.,ロサンゼルス,米国
+America,アメリカ,America/Los_Angeles,San Francisco,U.S.A.,サンフランシスコ,米国
+America,アメリカ,America/Lower_Princes,Lower Prince's Quarter,Sint Maarten,ローワー・プリンセズ・クウォーター,シント・マールテン
+America,アメリカ,America/Maceio,Maceio,Brazil,マセイオ,ブラジル
+America,アメリカ,America/Managua,Managua,Nicaragua,マナグア,ニカラグア
+America,アメリカ,America/Manaus,Manaus,Brazil,マナウス,ブラジル
+America,アメリカ,America/Marigot,Marigot,Saint Martin,マリゴ,サンマルタン
+America,アメリカ,America/Martinique,Fort-de-France,Martinique,フォール・ド・フランス,マルティニーク
+America,アメリカ,America/Matamoros,Matamoros,Mexico,マタモロス,メキシコ
+America,アメリカ,America/Mazatlan,Mazatlán,Mexico,マサトラン,メキシコ
+America,アメリカ,America/Menominee,Menominee,U.S.A.,メノミニー,米国
+America,アメリカ,America/Merida,Mérida,Mexico,メリダ,メキシコ
+America,アメリカ,America/Metlakatla,Metlakatla,U.S.A.,メトラカトラ,米国
+America,アメリカ,America/Mexico_City,Mexico City,Mexico,メキシコシティ,メキシコ
+America,アメリカ,America/Miquelon,Miquelon,Saint Pierre and Miquelon,ミクロン,サンピエール・ミクロン
+America,アメリカ,America/Moncton,Moncton,Canada,モンクトン,カナダ
+America,アメリカ,America/Monterrey,Monterrey,Mexico,モンテレー,メキシコ
+America,アメリカ,America/Montevideo,Montevideo,Uruguay,モンテビデオ,ウルグアイ
+America,アメリカ,America/Montreal,Montreal,Canada,モントリオール,カナダ
+America,アメリカ,America/Montserrat,Little Bay,Montserrat,リトル・ベイ,モントセラト
+America,アメリカ,America/Nassau,Nassau,Bahamas,ナッソー,バハマ
+America,アメリカ,America/New_York,New York,U.S.A.,ニューヨーク,米国
+America,アメリカ,America/Nipigon,Nipigon,Canada,ニピゴン,カナダ
+America,アメリカ,America/Nome,Nome,U.S.A.,ノーメ,米国
+America,アメリカ,America/Noronha,Fernando de Noronha,Brazil,フェルナンド・デ・ノローニャ,ブラジル
+America,アメリカ,America/North_Dakota/Beulah,Beulah,U.S.A.,ベウラ,米国
+America,アメリカ,America/North_Dakota/Center,Center,U.S.A.,センター,米国
+America,アメリカ,America/North_Dakota/New_Salem,New Salem,U.S.A.,ニューサレム,米国
+America,アメリカ,America/Ojinaga,Ojinaga,Mexico,オヒナガ,メキシコ
+America,アメリカ,America/Panama,Panama City,Panama,パナマシティ,パナマ
+America,アメリカ,America/Pangnirtung,Pangnirtung,Canada,パンナータング,カナダ
+America,アメリカ,America/Paramaribo,Paramaribo,Surinam,パラマリボ,スリナム
+America,アメリカ,America/Phoenix,Phoenix,U.S.A.,フェニックス,米国
+America,アメリカ,America/Port_of_Spain,Port of Spain,Torinidad Tobago,ポートオブスペイン,トリニダード・トバゴ
+America,アメリカ,America/Port-au-Prince,Port-au-Prince,Haiti,ポルトープランス,ハイチ
+America,アメリカ,America/Porto_Velho,Porto Velho,Brazil,ポルトベリョ,ブラジル
+America,アメリカ,America/Puerto_Rico,San Juan,Puerto Rico,サンフアン,プエルトリコ
+America,アメリカ,America/Punta_Arenas,Punta Arenas,Chile,プンタ・アレーナス,チリ
+America,アメリカ,America/Rainy_River,Rainy River,Canada,レイニーリバー,カナダ
+America,アメリカ,America/Rankin_Inlet,Rankin Inlet,Canada,ランキン湾,カナダ
+America,アメリカ,America/Recife,Recife,Brazil,レシフェ,ブラジル
+America,アメリカ,America/Regina,Regina,Canada,レジャイナ,カナダ
+America,アメリカ,America/Resolute,Resolute,Canada,レゾリュート,カナダ
+America,アメリカ,America/Rio_Branco,Rio Branco,Brazil,リオブランコ,ブラジル
+America,アメリカ,America/Santa_Isabel,Santa Isabel,Mexico,サンタ・イサベル,メキシコ
+America,アメリカ,America/Santarem,Santarém,Brazil,サンタレン,ブラジル
+America,アメリカ,America/Santiago,Santiago,Chile,サンティアゴ,チリ
+America,アメリカ,America/Santo_Domingo,Santo Domingo,Dominican Republic,サントドミンゴ,ドミニカ共和国
+America,アメリカ,America/Sao_Paulo,São Paulo,Brazil,サンパウロ,ブラジル
+America,アメリカ,America/Scoresbysund,Ittoqqortoormiit,Greenland,イッドコドーミド,グリーンランド
+America,アメリカ,America/Shiprock,Shiprock,U.S.A.,シップロック,米国
+America,アメリカ,America/Sitka,Sitka,U.S.A.,シトカ,米国
+America,アメリカ,America/St_Barthelemy,Gustavia,Saint Barthelemy,グスタビア,サン・バルテルミ
+America,アメリカ,America/St_Johns,St. John's,Canada,セントジョンズ,カナダ
+America,アメリカ,America/St_Kitts,Basseterre,Saint Kitts and Nevis,バセテール,セントクリストファー・ネイビス
+America,アメリカ,America/St_Lucia,Castries,Saint Lucia,カストリーズ,セントルシア
+America,アメリカ,America/St_Thomas,Saint Tomas,U.S.Virgin Islands,セント・トーマス島,米領バージン諸島
+America,アメリカ,America/St_Vincent,Kingstown,Saint Vincent and the Grenadines,キングスタウン,セントビンセントおよびグレナディーン諸島
+America,アメリカ,America/Swift_Current,Swift Current,Canada,スイフトカレント,カナダ
+America,アメリカ,America/Tegucigalpa,Tegucigalpa,Honduras,テグシガルパ,ホンジュラス
+America,アメリカ,America/Thule,Thule,Greenland,ツーレ,グリーンランド
+America,アメリカ,America/Thunder_Bay,Thunder Bay,Canada,サンダーベイ,カナダ
+America,アメリカ,America/Tijuana,Tijuana,Mexico,ティフアナ,メキシコ
+America,アメリカ,America/Toronto,Toronto,Canada,トロント,カナダ
+America,アメリカ,America/Tortola,Road Town,British Virgin Islands,ロードタウン,英領バージン諸島
+America,アメリカ,America/Vancouver,Vancouver,Canada,バンクーバー,カナダ
+America,アメリカ,America/Whitehorse,Whitehorse,Canada,ホワイトホース,カナダ
+America,アメリカ,America/Winnipeg,Winnipeg,Canada,ウィニペグ,カナダ
+America,アメリカ,America/Yakutat,Yakutat,U.S.A.,ヤクタット,米国
+America,アメリカ,America/Yellowknife,Yellowknife,Canada,イエローナイフ,カナダ
+Antarctica,南極,Antarctica/Casey,Casey Station,Antarctica,ケーシー基地,南極
+Antarctica,南極,Antarctica/Davis,Davis Station,Antarctica,デービス基地,南極
+Antarctica,南極,Antarctica/DumontDUrville,Dumont-d'Urville Station,Antarctica,デュモン・デュルヴィル基地,南極
+Antarctica,南極,Antarctica/Macquarie,Macquarie Island Station,Antarctica,マッコーリー島基地,南極
+Antarctica,南極,Antarctica/Mawson,Mawson Station,Antarctica,モーソン基地,南極
+Antarctica,南極,Antarctica/McMurdo,McMurdo Station,Antarctica,マクマード基地,南極
+Antarctica,南極,Antarctica/Palmer,Palmer Station,Antarctica,パーマー基地,南極
+Antarctica,南極,Antarctica/Rothera,Rothera Station,Antarctica,ロゼラ基地,南極
+Antarctica,南極,Antarctica/South_Pole,South Pole,Antarctica,南極点,南極
+Antarctica,南極,Antarctica/Syowa,Syowa Station,Antarctica,昭和基地,南極
+Antarctica,南極,Antarctica/Troll,Troll,Antarctica,トロール基地,南極
+Antarctica,南極,Antarctica/Vostok,Vostok Station,Antarctica,ボストーク基地,南極
+Arctic,北極,Arctic/Longyearbyen,Longyearbyen,Arctic,ロングイェールビーン,北極
+Asia,アジア,Asia/Aden,Aden,Yemen,アデン,イエメン
+Asia,アジア,Asia/Almaty,Almaty,Kazakhstan,アスタナ,カザフスタン
+Asia,アジア,Asia/Amman,Amman,Jordan,アンマン,ヨルダン
+Asia,アジア,Asia/Anadyr,Anadyr,Russia,アナディル,ロシア
+Asia,アジア,Asia/Aqtau,Aktau,Kazakhstan,アクタウ,カザフスタン
+Asia,アジア,Asia/Aqtobe,Aktobe,Kazakhstan,アクトベ,カザフスタン
+Asia,アジア,Asia/Ashgabat,Ashgabat,Turkmenistan,アシガバード,トルクメニスタン
+Asia,アジア,Asia/Atyrau,Atyrau,Kazakhs,アティラウ,カザフスタン
+Asia,アジア,Asia/Baghdad,Baghdad,Iraq,バグダッド,イラク
+Asia,アジア,Asia/Bahrain,Manama,Bahrain,マナマ,バーレーン
+Asia,アジア,Asia/Baku,Baku,Azerbaijan,バクー,アゼルバイジャン
+Asia,アジア,Asia/Bangkok,Bangkok,Thailand,バンコク,タイ
+Asia,アジア,Asia/Bangkok,Chiang Mai,Thailand,チェンマイ,タイ
+Asia,アジア,Asia/Bangkok,Phuket,Thailand,プーケット,タイ
+Asia,アジア,Asia/Bangkok,Pattaya,Thailand,パタヤ,タイ
+Asia,アジア,Asia/Barnaul,Barnaul,Russia,バルナウル,ロシア
+Asia,アジア,Asia/Beirut,Beirut,Lebanon,ベイルート,レバノン
+Asia,アジア,Asia/Bishkek,Bishkek,Kyrgyzstan,ビシケク,キルギスタン
+Asia,アジア,Asia/Brunei,Bandar Seri Begawan,Brunei,バンダル・スリ・ブガワン,ブルネイ
+Asia,アジア,Asia/Calcutta,Calcutta,India,カルカッタ,インド
+Asia,アジア,Asia/Chita,Chita,Russia,チタ,ロシア
+Asia,アジア,Asia/Choibalsan,Choibalsan,Mongolia,チョイバルサン,モンゴル
+Asia,アジア,Asia/Chongqing,Chongqing,China,重慶,中国
+Asia,アジア,Asia/Colombo,Colombo,Sri Lanka,コロンボ,スリランカ
+Asia,アジア,Asia/Damascus,Damascus,Syria,ダマスカス,シリア
+Asia,アジア,Asia/Dhaka,Dhaka,Bangladesh,ダッカ,バングラデシュ
+Asia,アジア,Asia/Dili,Dili,East Timor,ディリ,東チモール
+Asia,アジア,Asia/Dubai,Dubai,U.A.E.,ドバイ,U.A.E.
+Asia,アジア,Asia/Dushanbe,Dushanbe,Tajikistan,ドゥシャンベ,タジキスタン
+Asia,アジア,Asia/Famagusta,Famagusta,Cyprus,ファマグスタ,キプロス
+Asia,アジア,Asia/Gaza,Gaza,Palestinian Territories,ガザ,パレスチナ
+Asia,アジア,Asia/Harbin,Harbin,China,ハルビン,中国
+Asia,アジア,Asia/Hebron,Hebron,Palestinian Territories,ヘブロン,パレスチナ
+Asia,アジア,Asia/Ho_Chi_Minh,Ho Chi Minh City,Vietnam,ホーチミン,ベトナム
+Asia,アジア,Asia/Ho_Chi_Minh,Hanoi,Vietnam,ハノイ,ベトナム
+Asia,アジア,Asia/Hong_Kong,Hong Kong,Hong Kong,香港,香港
+Asia,アジア,Asia/Hovd,Hovd,Mongolia,ホフト,モンゴル
+Asia,アジア,Asia/Irkutsk,Irkutsk,Russia,イルクーツク,ロシア
+Asia,アジア,Asia/Jakarta,Jakarta,Indonesia,ジャカルタ,インドネシア
+Asia,アジア,Asia/Jayapura,Jayapura,Indonesia,ジャヤプラ,インドネシア
+Asia,アジア,Asia/Jerusalem,Jerusalem,Israelis,エルサレム,イスラエル
+Asia,アジア,Asia/Jerusalem,Jerusalem,Palestinians,エルサレム,パレスチナ
+Asia,アジア,Asia/Kabul,Kabul,Afghanistan,カブール,アフガニスタン
+Asia,アジア,Asia/Kamchatka,Petropavlovsk-Kamchatskiy,Russia,ペトロパブロフスク・カムチャツキー,ロシア
+Asia,アジア,Asia/Karachi,Karachi,Pakistan,カラチ,パキスタン
+Asia,アジア,Asia/Kashgar,Kashgar,China,カシュガル,中国
+Asia,アジア,Asia/Kathmandu,Kathmandu,Nepal,カトマンズ,ネパール
+Asia,アジア,Asia/Katmandu,Kathmandu,Nepal,カトマンズ,ネパール
+Asia,アジア,Asia/Khandyga,Khandyga,Russia,ハンドゥイガ,ロシア
+Asia,アジア,Asia/Calcutta,Kolkata,India,コルカタ,インド
+Asia,アジア,Asia/Krasnoyarsk,Krasnoyarsk,Russia,クラスノヤルスク,ロシア
+Asia,アジア,Asia/Kuala_Lumpur,Kuala Lumpur,Malaysia,クアラルンプール,マレーシア
+Asia,アジア,Asia/Kuching,Kuching,Malaysia,クチン,マレーシア
+Asia,アジア,Asia/Kuching,Kota Kinabalu,Malaysia,コタキナバル,マレーシア
+Asia,アジア,Asia/Kuwait,Kuwait,Kuwait,クウェート,クウェート
+Asia,アジア,Asia/Macau,Macau,Macau,マカオ,マカオ
+Asia,アジア,Asia/Magadan,Magadan,Russia,マガダン,ロシア
+Asia,アジア,Asia/Makassar,Makassar,Indonesia,マカッサル,インドネシア
+Asia,アジア,Asia/Makassar,Denpasar,Indonesia,デンパサール,インドネシア
+Asia,アジア,Asia/Makassar,Bali,Indonesia,バリ,インドネシア
+Asia,アジア,Asia/Manila,Manila,Philippines,マニラ,フィリピン
+Asia,アジア,Asia/Muscat,Muscat,Oman,マスカット,オマーン
+Asia,アジア,Asia/Nicosia,Nicosia,Cyprus,ニコシア,キプロス
+Asia,アジア,Asia/Novokuznetsk,Novokuznetsk,Russia,ノボクズネツク,ロシア
+Asia,アジア,Asia/Novosibirsk,Novosibirsk,Russia,ノボシビルスク,ロシア
+Asia,アジア,Asia/Omsk,Omsk,Russia,オムスク,ロシア
+Asia,アジア,Asia/Oral,Oral,Kazakhstan,オラル,カザフスタン
+Asia,アジア,Asia/Phnom_Penh,Phnom Penh,Cambodia,プノンペン,カンボジア
+Asia,アジア,Asia/Phnom_Penh,Siem Reap,Cambodia,シェムリアップ,カンボジア
+Asia,アジア,Asia/Pontianak,Pontianak,Indonesia,ポンティアナク,インドネシア
+Asia,アジア,Asia/Pyongyang,Pyongyang,Democratic People's Republic of Korea,平壌,朝鮮民主主義人民共和国
+Asia,アジア,Asia/Qatar,Doha,Qatar,ドーハ,カタール
+Asia,アジア,Asia/Qyzylorda,Kyzylorda,Kazakhstan,クズロルダ,カザフスタン
+Asia,アジア,Asia/Rangoon,Rangoon,Burma,ラングーン,ミャンマー
+Asia,アジア,Asia/Riyadh,Riyadh,Saudi Arabia,リヤド,サウジアラビア
+Asia,アジア,Asia/Sakhalin,Yuzhno-Sakhalinsk,Russia,ユジノサハリンスク,ロシア
+Asia,アジア,Asia/Samarkand,Samarkand,Uzbekistan,サマルカンド,ウズベキスタン
+Asia,アジア,Asia/Seoul,Seoul,South Korea,ソウル,韓国
+Asia,アジア,Asia/Seoul,Busan,South Korea,釜山,韓国
+Asia,アジア,Asia/Shanghai,Shanghai,China,上海,中国
+Asia,アジア,Asia/Shanghai,Xiamen,China,アモイ,中国
+Asia,アジア,Asia/Shanghai,Qingdao,China,青島,中国
+Asia,アジア,Asia/Shanghai,Guangzhou,China,広州,中国
+Asia,アジア,Asia/Shanghai,Beijing,China,北京,中国
+Asia,アジア,Asia/Shanghai,Dalian,China,大連,中国
+Asia,アジア,Asia/Singapore,Singapore,Singapore,シンガポール,シンガポール
+Asia,アジア,Asia/Srednekolymsk,Srednekolymsk,Russia,スレドネコリムスク,ロシア
+Asia,アジア,Asia/Taipei,Taipei,Taiwan,台北,台湾
+Asia,アジア,Asia/Taipei,Tainan,Taiwan,台南,台湾
+Asia,アジア,Asia/Taipei,Kaohsiung,Taiwan,高雄,台湾
+Asia,アジア,Asia/Tashkent,Tashkent,Uzbekistan,タシケント,ウズベキスタン
+Asia,アジア,Asia/Tbilisi,Tbilisi,Georgia,トビリシ,グルジア
+Asia,アジア,Asia/Tehran,Tehran,Iran,テヘラン,イラン
+Asia,アジア,Asia/Thimphu,Thimphu,Bhutan,ティンプー,ブータン
+Asia,アジア,Asia/Tokyo,Tokyo,Japan,東京,日本
+Asia,アジア,Asia/Tokyo,Osaka,Japan,大阪,日本
+Asia,アジア,Asia/Tomsk,Tomsk,Russia,トムスク,ロシア
+Asia,アジア,Asia/Ulaanbaatar,Ulaanbaatar,Mongolia,ウランバートル,モンゴル
+Asia,アジア,Asia/Urumqi,Urumqi,China,ウルムチ,中国
+Asia,アジア,Asia/Ust-Nera,Ust-Nera,Russia,ウスチ＝ネラ ,ロシア
+Asia,アジア,Asia/Vientiane,Vientiane,Laos,ヴィエンチャン,ラオス
+Asia,アジア,Asia/Vladivostok,Vladivostok,Russia,ウラジオストク,ロシア
+Asia,アジア,Asia/Yakutsk,Yakutsk,Russia,ヤクーツク,ロシア
+Asia,アジア,Asia/Yangon,Yangon,Myanmar,ヤンゴン,ミャンマー
+Asia,アジア,Asia/Yekaterinburg,Yekaterinburg,Russia,エカテリンブルク,ロシア
+Asia,アジア,Asia/Yerevan,Yerevan,Armenia,エレバン,アルメニア
+Atlantic,大西洋,Atlantic/Azores,Ponta Delgada,Azores,ポンタ・デルガダ,アゾレス自治地域
+Atlantic,大西洋,Atlantic/Bermuda,Hamilton,Bermuda,ハミルトン,バーミューダ
+Atlantic,大西洋,Atlantic/Canary,Las Palmas de Gran Canaria,Spain,ラス・パルマス・デ・グラン・カナリア,スペイン
+Atlantic,大西洋,Atlantic/Cape_Verde,Praia,Cape Verde,プライア,カーボベルデ
+Atlantic,大西洋,Atlantic/Faroe,Tórshavn,Faroe Islands,トースハウン,フェロー諸島
+Atlantic,大西洋,Atlantic/Madeira,Funchal,Maderia,フンシャル,マデイラ自治地域
+Atlantic,大西洋,Atlantic/Reykjavik,Reykjavik,Iceland,レイキャビク,アイスランド
+Atlantic,大西洋,Atlantic/South_Georgia,King Edward Point,South Georgia and the South Sandwich Islands,キング・エドワード・ポイント,サウスジョージア・サウスサンドウィッチ諸島
+Atlantic,大西洋,Atlantic/St_Helena,Jamestown,"Saint Helena, Ascension and Tristan da Cunha",ジェームズタウン,セントヘレナ・アセンションおよびトリスタンダクーニャ
+Atlantic,大西洋,Atlantic/Stanley,Stanley,Falkland Islands,スタンリー,フォークランド諸島
+Australia,オーストラリア,Australia/Adelaide,Adelaide,Australia,アデレード,オーストラリア
+Australia,オーストラリア,Australia/Brisbane,Brisbane,Australia,ブリスベン,オーストラリア
+Australia,オーストラリア,Australia/Broken_Hill,Broken Hill,Australia,ブロークンヒル,オーストラリア
+Australia,オーストラリア,Australia/Currie,Currie,Australia,カリー,オーストラリア
+Australia,オーストラリア,Australia/Darwin,Darwin,Australia,ダーウィン,オーストラリア
+Australia,オーストラリア,Australia/Eucla,Eucla,Australia,ユークラ,オーストラリア
+Australia,オーストラリア,Australia/Hobart,Hobart,Australia,ホウバート,オーストラリア
+Australia,オーストラリア,Australia/Lindeman,Lindeman Island,Australia,リンデマン島,オーストラリア
+Australia,オーストラリア,Australia/Lord_Howe,Lord Howe Island,Australia,ロードハウ島,オーストラリア
+Australia,オーストラリア,Australia/Melbourne,Melbourne,Australia,メルボルン,オーストラリア
+Australia,オーストラリア,Australia/Perth,Perth,Australia,パース,オーストラリア
+Australia,オーストラリア,Australia/Sydney,Sydney,Australia,シドニー,オーストラリア
+Europe,ヨーロッパ,Europe/Amsterdam,Amsterdam,Netherlands,アムステルダム,オランダ
+Europe,ヨーロッパ,Europe/Andorra,Andorra la Vella,Andorra,アンドラ・ラ・ベリャ,アンドラ
+Europe,ヨーロッパ,Europe/Astrakhan,Astrakhan,Russia,アストラハン,ロシア
+Europe,ヨーロッパ,Europe/Athens,Athens,Greece,アテネ,ギリシャ
+Europe,ヨーロッパ,Europe/Belgrade,Belgrade,Serbia,ベオグラード,セルビア
+Europe,ヨーロッパ,Europe/Berlin,Berlin,Germany,ベルリン,ドイツ
+Europe,ヨーロッパ,Europe/Bratislava,Bratislava,Slovakia,ブラチスラヴァ,スロバキア
+Europe,ヨーロッパ,Europe/Brussels,Brussels,Belgium,ブリュッセル,ベルギー
+Europe,ヨーロッパ,Europe/Bucharest,Bucharest,Romania,ブカレスト,ルーマニア
+Europe,ヨーロッパ,Europe/Budapest,Budapest,Hungary,ブダペスト,ハンガリー
+Europe,ヨーロッパ,Europe/Busingen,Büsingen,Germany,ビュージンゲン ,ドイツ
+Europe,ヨーロッパ,Europe/Chisinau,Chisinau,Moldova,チシナウ,モルドバ
+Europe,ヨーロッパ,Europe/Copenhagen,Copenhagen,Denmark,コペンハーゲン,デンマーク
+Europe,ヨーロッパ,Europe/Dublin,Dublin,Ireland,ダブリン,アイルランド
+Europe,ヨーロッパ,Europe/Gibraltar,Gibraltar,Gibraltar,ジブラルタル,ジブラルタル
+Europe,ヨーロッパ,Europe/Guernsey,St. Peter Port,Bailiwick of Guernsey,セント・ピーター・ポート,ガーンジー代官管轄区
+Europe,ヨーロッパ,Europe/Helsinki,Helsinki,Finland,ヘルシンキ,フィンランド
+Europe,ヨーロッパ,Europe/Isle_of_Man,Douglas,Isle of Man,ダグラス,マン島
+Europe,ヨーロッパ,Europe/Istanbul,Istanbul,Turkey,イスタンブール,トルコ
+Europe,ヨーロッパ,Europe/Jersey,St. Helier,Bailiwick of Jersey,セント・ヘリア,ジャージー代官管轄区
+Europe,ヨーロッパ,Europe/Kaliningrad,Kaliningrad,Russia,カリーニングラード,ロシア
+Europe,ヨーロッパ,Europe/Kiev,Kiev,Ukraine,キエフ,ウクライナ
+Europe,ヨーロッパ,Europe/Kirov,Kirov,Russia,キーロフ,ロシア
+Europe,ヨーロッパ,Europe/Lisbon,Lisbon,Portugal,リスボン,ポルトガル
+Europe,ヨーロッパ,Europe/Ljubljana,Ljubljana,Slovenia,リュブリャナ,スロベニア
+Europe,ヨーロッパ,Europe/London,London,U.K.,ロンドン,英国
+Europe,ヨーロッパ,Europe/Luxembourg,Luxembourg,Luxembourg,ルクセンブルグ,ルクセンブルグ
+Europe,ヨーロッパ,Europe/Madrid,Madrid,Spain,マドリード,スペイン
+Europe,ヨーロッパ,Europe/Madrid,Barcelona,Spain,バルセロナ,スペイン
+Europe,ヨーロッパ,Europe/Malta,Valletta,Malta,バレッタ,マルタ
+Europe,ヨーロッパ,Europe/Mariehamn,Mariehamn,Åland Islands,マリエハム,オーランド諸島
+Europe,ヨーロッパ,Europe/Minsk,Minsk,Belarus,ミンスク,ベラルーシ
+Europe,ヨーロッパ,Europe/Monaco,Monaco,Monaco,モナコ,モナコ
+Europe,ヨーロッパ,Europe/Moscow,Moscow,Russia,モスクワ,ロシア
+Europe,ヨーロッパ,Europe/Oslo,Oslo,Norway,オスロ,ノルウェー
+Europe,ヨーロッパ,Europe/Paris,Paris,France,パリ,フランス
+Europe,ヨーロッパ,Europe/Podgorica,Podgorica,Montenegro,ポドゴリツァ,モンテネグロ
+Europe,ヨーロッパ,Europe/Prague,Prague,Czech Republic,プラハ,チェコ共和国
+Europe,ヨーロッパ,Europe/Riga,Riga,Latvia,リガ,ラトビア
+Europe,ヨーロッパ,Europe/Rome,Rome,Italy,ローマ,イタリア
+Europe,ヨーロッパ,Europe/Samara,Samara,Russia,サマラ,ロシア
+Europe,ヨーロッパ,Europe/San_Marino,San Marino,San Marino,サンマリノ,サンマリノ
+Europe,ヨーロッパ,Europe/Sarajevo,Sarajevo,Bosnia and Herzegovina,サラエヴォ,ボスニア・ヘルツェゴビナ
+Europe,ヨーロッパ,Europe/Saratov,Saratov,Russia,サラトフ,ロシア
+Europe,ヨーロッパ,Europe/Simferopol,Simferopol,Russia,シンフェロポリ,ロシア
+Europe,ヨーロッパ,Europe/Skopje,Skopje,Macedonia,スコピエ,マケドニア
+Europe,ヨーロッパ,Europe/Sofia,Sofia,Bulgaria,ソフィア,ブルガリア
+Europe,ヨーロッパ,Europe/Stockholm,Stockholm,Swen,ストックホルム,スウェーデン
+Europe,ヨーロッパ,Europe/Tallinn,Tallinn,Estonia,タリン,エストニア
+Europe,ヨーロッパ,Europe/Tirane,Tirana,Albania,ティラナ,アルバニア
+Europe,ヨーロッパ,Europe/Ulyanovsk,Ulyanovsk,Russia,ウリヤノフスク,ロシア
+Europe,ヨーロッパ,Europe/Uzhgorod,Uzhhorod,Ukraine,ウージュホロド,ウクライナ
+Europe,ヨーロッパ,Europe/Vaduz,Vaduz,Liechtenstein,ファドゥーツ,リヒテンシュタイン
+Europe,ヨーロッパ,Europe/Vatican,Vatican City,Vatican City State,バチカン,バチカン市国
+Europe,ヨーロッパ,Europe/Vienna,Vienna,Austria,ウィーン,オーストリア
+Europe,ヨーロッパ,Europe/Vilnius,Vilnius,Lithuania,ビリニュス,リトアニア
+Europe,ヨーロッパ,Europe/Volgograd,Volgograd,Russia,ボルゴグラード,ロシア
+Europe,ヨーロッパ,Europe/Warsaw,Warsaw,Poland,ワルシャワ,ポーランド
+Europe,ヨーロッパ,Europe/Zagreb,Zagreb,Croatia,ザグレブ,クロアチア
+Europe,ヨーロッパ,Europe/Zaporozhye,Zaporizhia,Ukraine,ザポリージャ ,ウクライナ
+Europe,ヨーロッパ,Europe/Zurich,Zurich,Switzerland,チューリッヒ,スイス
+Indian,インド洋,Indian/Antananarivo,Antananarivo,Madagascar,アンタナナリボ,マダガスカル
+Indian,インド洋,Indian/Chagos,Chagos Archipelago,British Indian Ocean Territory,チャゴス諸島,イギリス領インド洋地域
+Indian,インド洋,Indian/Christmas,Christmas Island,Australia,クリスマス島,オーストラリア
+Indian,インド洋,Indian/Cocos,Cocos (Keeling) Islands,Australia,ココス（キーリング）諸島,オーストラリア
+Indian,インド洋,Indian/Comoro,Moroni,Comoros,モロニ,コモロ
+Indian,インド洋,Indian/Kerguelen,Port-aux-Français,French Southern & Antarctic Lands,ポルトーフランセ,フランス領極南諸島
+Indian,インド洋,Indian/Mahe,Victoria,Seychelles,ビクトリア,セーシェル
+Indian,インド洋,Indian/Maldives,Malé,Maldives,マレ,モルディブ
+Indian,インド洋,Indian/Mauritius,Port Louis,Mauritius,ポートルイス,モーリシャス
+Indian,インド洋,Indian/Mayotte,Mamoudzou,Mayotte,マムズ,マヨット
+Indian,インド洋,Indian/Reunion,Saint-Denis,Réunion,サンドニ,レユニオン
+Pacific,太平洋,Pacific/Apia,Apia,Samoa,アピア,サモア
+Pacific,太平洋,Pacific/Auckland,Auckland,New Zealand,オークランド,ニュージーランド
+Pacific,太平洋,Pacific/Bougainville,Autonomous Region of Bougainville ,Papua New Guinea,ブーゲンビル自治州,パプアニューギニア
+Pacific,太平洋,Pacific/Chatham,Chatham Island,New Zealand,チャタム島,ニュージーランド
+Pacific,太平洋,Pacific/Chuuk,Chuuk,Micronesia,チューク,ミクロネシア
+Pacific,太平洋,Pacific/Easter,Easter Island,Chile,イースター島,チリ
+Pacific,太平洋,Pacific/Efate,Efate,Vanuatu,エファテ,バヌアツ
+Pacific,太平洋,Pacific/Enderbury,Enderbury Island,Kiribati,エンダーベリー島,キリバス
+Pacific,太平洋,Pacific/Fakaofo,Fakaofo,Tokelau,ファカオフォ島,トケラウ
+Pacific,太平洋,Pacific/Fiji,Suva,Fiji,スバ,フィジー
+Pacific,太平洋,Pacific/Funafuti,Funafuti,Tuvalu,フナフティ島,ツバル
+Pacific,太平洋,Pacific/Galapagos,Puerto Baquerizo Moreno,Ecuador,プエルト・バケリソ・モレノ ,エクアドル
+Pacific,太平洋,Pacific/Gambier,Rikitea,French Polynesia,リキテア,フランス領ポリネシア
+Pacific,太平洋,Pacific/Guadalcanal,Honiara,Solomon Islands,ホニアラ,ソロモン諸島
+Pacific,太平洋,Pacific/Guam,Guam,Guam,グアム,グアム
+Pacific,太平洋,Pacific/Honolulu,Honolulu,U.S.A.,ホノルル,米国
+Pacific,太平洋,Pacific/Johnston,Johnston,United States Minor Outlying Islands,ジョンストン島 ,合衆国領有小離島
+Pacific,太平洋,Pacific/Kiritimati,Kiritimati,Kiribati,クリスマス,キリバス
+Pacific,太平洋,Pacific/Kosrae,Kosrae,Micronesia,コスラエ,ミクロネシア
+Pacific,太平洋,Pacific/Kwajalein,Kwajalein Atoll,Marshall Islands,クワジェリン環礁,マーシャル諸島
+Pacific,太平洋,Pacific/Majuro,Majuro,Marshall Islands,マジュロ,マーシャル諸島
+Pacific,太平洋,Pacific/Marquesas,Tai o Hae,French Polynesia,タイオハエ,フランス領ポリネシア
+Pacific,太平洋,Pacific/Midway,Midway,United States Minor Outlying Islands,ミッドウェー島,合衆国領有小離島
+Pacific,太平洋,Pacific/Nauru,Nauru,Micronesia,ナウル,ミクロネシア
+Pacific,太平洋,Pacific/Niue,Alofi,Niue,アロフィ,ニウエ
+Pacific,太平洋,Pacific/Norfolk,Kingston,Norfolk Island,キングストン,ノーフォーク島
+Pacific,太平洋,Pacific/Noumea,Noumea,New Calonia,ヌーメア,ニューカレドニア
+Pacific,太平洋,Pacific/Pago_Pago,Pago Pago,American Samoa,パゴパゴ,米領サモア
+Pacific,太平洋,Pacific/Palau,Melekeok,Palau,マルキョク ,パラオ
+Pacific,太平洋,Pacific/Pitcairn,Adamstown,Pitcairn Islands,アダムスタウン,ピトケアン諸島
+Pacific,太平洋,Pacific/Pohnpei,Pohnpei,Micronesia,ポンペイ島,ミクロネシア
+Pacific,太平洋,Pacific/Ponape,Ponape,Micronesia,ポナペ島,ミクロネシア
+Pacific,太平洋,Pacific/Port_Moresby,Port Moresby,Papua New Guinea,ポートモレスビー,パプアニューギニア
+Pacific,太平洋,Pacific/Rarotonga,Rarotonga,Cook Islands,ラロトンガ,クック諸島
+Pacific,太平洋,Pacific/Saipan,Saipan,Northern Mariana Islands,サイパン,北マリアナ諸島
+Pacific,太平洋,Pacific/Tahiti,Tahiti,French Polynesia,タヒチ,フランス領ポリネシア
+Pacific,太平洋,Pacific/Tarawa,Tarawa,Kiribati,タラワ,キリバス
+Pacific,太平洋,Pacific/Tongatapu,Nuku'alofa,Tonga,ヌクアロファ,トンガ
+Pacific,太平洋,Pacific/Truk,Truk,Micronesia,チューク,ミクロネシア
+Pacific,太平洋,Pacific/Wake,Wake,United States Minor Outlying Islands,ウェーク島,合衆国領有小離島
+Pacific,太平洋,Pacific/Wallis,Mata-Utu,Wallis and Futuna,マタウトゥ,ウォリス・フトゥナ
