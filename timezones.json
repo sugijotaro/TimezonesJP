@@ -2094,6 +2094,13 @@
             },
             {
                 "timezone": "Asia/Shanghai",
+                "city": "Qingdao",
+                "country": "China",
+                "city_ja": "青島",
+                "country_ja": "中国"
+            },
+            {
+                "timezone": "Asia/Shanghai",
                 "city": "Guangzhou",
                 "country": "China",
                 "city_ja": "広州",
