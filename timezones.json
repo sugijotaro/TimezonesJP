@@ -2157,6 +2157,13 @@
             },
             {
                 "timezone": "Asia/Taipei",
+                "city": "Tainan",
+                "country": "Taiwan",
+                "city_ja": "台南",
+                "country_ja": "台湾"
+            }
+            {
+                "timezone": "Asia/Taipei",
                 "city": "Kaohsiung",
                 "country": "Taiwan",
                 "city_ja": "高雄",
