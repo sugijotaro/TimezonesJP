@@ -955,6 +955,13 @@
         "country_ja": "米国"
       },
       {
+        "timezone": "America/Los_Angeles",
+        "city": "Las Vegas",
+        "country": "United States",
+        "city_ja": "ラスベガス",
+        "country_ja": "アメリカ"
+      },
+      {
         "timezone": "America/Lower_Princes",
         "city": "Lower Prince's Quarter",
         "country": "Sint Maarten",
@@ -2496,6 +2503,13 @@
         "country_ja": "ドイツ"
       },
       {
+        "timezone": "Europe/Berlin",
+        "city": "Frankfurt",
+        "country": "Germany",
+        "city_ja": "フランクフルト",
+        "country_ja": "ドイツ"
+      },
+      {
         "timezone": "Europe/Bratislava",
         "city": "Bratislava",
         "country": "Slovakia",
@@ -2731,6 +2745,13 @@
         "city": "Rome",
         "country": "Italy",
         "city_ja": "ローマ",
+        "country_ja": "イタリア"
+      },
+      {
+        "timezone": "Europe/Rome",
+        "city": "Napoli",
+        "country": "Italy",
+        "city_ja": "ナポリ",
         "country_ja": "イタリア"
       },
       {
