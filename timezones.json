@@ -2545,6 +2545,13 @@
                 "country_ja": "スペイン"
             },
             {
+                "timezone": "Europe/Madrid",
+                "city": "Barcelona",
+                "country": "Spain",
+                "city_ja": "バルセロナ",
+                "country_ja": "スペイン"
+            },
+            {
                 "timezone": "Europe/Malta",
                 "city": "Valletta",
                 "country": "Malta",
