@@ -2094,6 +2094,13 @@
             },
             {
                 "timezone": "Asia/Shanghai",
+                "city": "Xiamen",
+                "country": "China",
+                "city_ja": "アモイ",
+                "country_ja": "中国"
+            },
+            {
+                "timezone": "Asia/Shanghai",
                 "city": "Qingdao",
                 "country": "China",
                 "city_ja": "青島",
