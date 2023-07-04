@@ -2093,6 +2093,13 @@
                 "country_ja": "日本"
             },
             {
+                "timezone": "Asia/Tokyo",
+                "city": "Osaka",
+                "country": "Japan",
+                "city_ja": "大阪",
+                "country_ja": "日本"
+            },
+            {
                 "timezone": "Asia/Tomsk",
                 "city": "Tomsk",
                 "country": "Russia",
