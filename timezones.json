@@ -2051,6 +2051,13 @@
                 "country_ja": "中国"
             },
             {
+                "timezone": "Asia/Shanghai",
+                "city": "Dalian",
+                "country": "China",
+                "city_ja": "大連",
+                "country_ja": "中国"
+            },
+            {
                 "timezone": "Asia/Singapore",
                 "city": "Singapore",
                 "country": "Singapore",
