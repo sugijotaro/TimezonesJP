@@ -2142,6 +2142,13 @@
                 "country_ja": "台湾"
             },
             {
+                "timezone": "Asia/Taipei",
+                "city": "Kaohsiung",
+                "country": "Taiwan",
+                "city_ja": "高雄",
+                "country_ja": "台湾"
+            },
+            {
                 "timezone": "Asia/Tashkent",
                 "city": "Tashkent",
                 "country": "Uzbekistan",
