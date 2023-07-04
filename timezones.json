@@ -948,6 +948,13 @@
                 "country_ja": "米国"
             },
             {
+                "timezone": "America/Los_Angeles",
+                "city": "San Francisco",
+                "country": "U.S.A.",
+                "city_ja": "サンフランシスコ",
+                "country_ja": "米国"
+            },
+            {
                 "timezone": "America/Lower_Princes",
                 "city": "Lower Prince's Quarter",
                 "country": "Sint Maarten",
