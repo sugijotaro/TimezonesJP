@@ -1912,6 +1912,13 @@
             },
             {
                 "timezone": "Asia/Makassar",
+                "city": "Denpasar",
+                "country": "Indonesia",
+                "city_ja": "デンパサール",
+                "country_ja": "インドネシア"
+            },
+            {
+                "timezone": "Asia/Makassar",
                 "city": "Bali",
                 "country": "Indonesia",
                 "city_ja": "バリ",
