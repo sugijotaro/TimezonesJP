@@ -1,0 +1,27 @@
+name: Convert CSV to JSON
+
+on:
+  push:
+    paths:
+      - "csv/timezones.csv"
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v2
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9
+      - name: Install dependencies
+      - name: Run script
+        run: python scripts/csv_to_json.py
+      - name: Commit and push if it changed
+        run: |
+          git diff
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git commit -am "Convert CSV to JSON [skip ci]" || exit 0
+          git push
