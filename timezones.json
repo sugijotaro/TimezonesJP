@@ -1625,6 +1625,13 @@
             },
             {
                 "timezone": "Asia/Bangkok",
+                "city": "Chiang Mai",
+                "country": "Thailand",
+                "city_ja": "チェンマイ",
+                "country_ja": "タイ"
+            },
+            {
+                "timezone": "Asia/Bangkok",
                 "city": "Phuket",
                 "country": "Thailand",
                 "city_ja": "プーケット",
