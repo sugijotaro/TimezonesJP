@@ -1911,6 +1911,13 @@
                 "country_ja": "マレーシア"
             },
             {
+                "timezone": "Asia/Kuching",
+                "city": "Kota Kinabalu",
+                "country": "Malaysia",
+                "city_ja": "コタキナバル",
+                "country_ja": "マレーシア"
+            },
+            {
                 "timezone": "Asia/Kuwait",
                 "city": "Kuwait",
                 "country": "Kuwait",
