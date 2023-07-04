@@ -1624,6 +1624,13 @@
                 "country_ja": "タイ"
             },
             {
+                "timezone": "Asia/Bangkok",
+                "city": "Pattaya",
+                "country": "Thailand",
+                "city_ja": "パタヤ",
+                "country_ja": "タイ"
+            },
+            {
                 "timezone": "Asia/Barnaul",
                 "city": "Barnaul",
                 "country": "Russia",
