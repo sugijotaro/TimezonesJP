@@ -2065,6 +2065,13 @@
                 "country_ja": "韓国"
             },
             {
+                "timezone": "Asia/Seoul",
+                "city": "Busan",
+                "country": "South Korea",
+                "city_ja": "釜山",
+                "country_ja": "韓国"
+            },
+            {
                 "timezone": "Asia/Shanghai",
                 "city": "Shanghai",
                 "country": "China",
